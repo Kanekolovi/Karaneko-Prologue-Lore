@@ -1,0 +1,2 @@
+- On a shoe cabinet
+- 「A sad little umbrella that's not where it's supposed to be.」

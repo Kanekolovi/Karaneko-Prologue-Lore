@@ -1,0 +1,9 @@
+- Arrrr! Pirates!
+	- Door has pirate flag
+	- "SUPREME GATEKEEPER RA-KUN"
+	- Plushies with eyepatchs
+- Has a supreme collection of figurines he is passionate about
+- His room is messier than [[Karam's Room (IRL)|Karam's]], or the rest of the house. Karam notices it, but is nice enough to not butt in his brother's stuff.
+- There is a surprise gift under Nayan's bed, he will try to distract Karam from it. When unsupervised, Karam doesn't spy on this surprise.
+- After playing, you can cover up Nayan in his bedsheets as to keep him from the cold, like a burrito.
+- Yurim sleeps on top of his 

@@ -1,0 +1,3 @@
+- Dirty compared to Karam's place.
+- The roads are blocked after [[The Incident]].
+- The CD near the store is an OMORI reference (dev confirmed)

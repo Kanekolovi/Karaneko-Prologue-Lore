@@ -1,0 +1,2 @@
+- Is not studious
+- fighting guy

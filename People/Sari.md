@@ -1,0 +1,4 @@
+- Womanizer ('Countless girlfriends')
+- Ends up smoking after [[The Incident]] (you can see him smoke when returning to the store)
+- Chokes on noodles
+- Was studious

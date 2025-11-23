@@ -1,0 +1,8 @@
+- everything is clean. Toilet, rooms, trashcan, stove, sink.. 
+- Has numerous urges to pick up things in Nayan's room or cleans things up (controllers)
+- Makes mental notes of dusting everything
+- fallen bottles MUST be UPRIGHT.
+- Has a box full of cleaning supplies
+	-> His favorite items.
+- Picking up the [[Broom]] fills him with confidence.
+- Can tidy up Nayan's bed instead of warming him up.
