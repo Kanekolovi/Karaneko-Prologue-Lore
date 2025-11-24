@@ -35,6 +35,7 @@ For video editing uh we're not there yet.
 This is destined for people who find GitHub complicated. 
 
 God bless us we're not ready yet.
+We're onto it though.
 
 
 # Contribution
