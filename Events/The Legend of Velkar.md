@@ -18,7 +18,7 @@ And thus began the glorious reign of the mighty Velkar gods.
 
 [[Ryuujin]]'s God of Life has built an unshakable order from it's foundation. 
 
-The adoring people of [[Innova]] we're blessed by love. 
+The adoring people of [[Ninova]] we're blessed by love. 
 They stepped into the graceful path of God of Love. 
 She was supposed to exist for the people, Yet the unexpected happened..."
 
