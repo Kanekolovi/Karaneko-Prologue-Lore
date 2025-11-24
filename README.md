@@ -34,15 +34,7 @@ For video editing uh we're not there yet.
 ## Importing all the notes into Obsidian
 This is destined for people who find GitHub complicated. 
 
-### For your first time:
-- Download the whole project (with the green `<> Code` button -> Download ZIP)
-- Extract it into a folder wherever you want it to be
-- Get the "Manage vaults" window in Obsidian (accessible in a submenu in the bottom left if not open by default)
-- Open folder as vault the extracted folder
-
-### For getting the latest version:
-- Download what you want to get and replace the old note(s) in your folder.
-
+God bless us we're not ready yet.
 
 
 # Contribution
