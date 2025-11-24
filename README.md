@@ -62,10 +62,6 @@ This is a very young project for now. More thanks incoming.
 For any concerns, you may find us easily on Discord, this page is co-owned by user `@Pralii~~` (`pralii`)  and `@Solv` (`solu.tion`).
 
 
-<<<<<<< HEAD
-Test.
-
-
 =======
 >>>>>>> origin/main
 
