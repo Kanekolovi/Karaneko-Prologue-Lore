@@ -18,7 +18,7 @@ The game is actually on Kickstarter, go check it out!
 
 # Is this official?
 ## Short answer: **No.** 
-It's all directed by fans of the game, independantly from the devs. The lore and notes are taken from what we observe in-game and around it. We do chat with the dev team though!
+It's all directed by fans of the game, independently from the devs. The lore and notes are taken from what we observe in-game and around it. We do chat with the dev team though!
 
 This whole project is coordinated within the official Karaneko Discord Server. Feel free to join in through official links findable on Kickstarter or online!
 
@@ -61,4 +61,11 @@ This is a very young project for now. More thanks incoming.
 # Contact
 For any concerns, you may find us easily on Discord, this page is co-owned by user `@Pralii~~` (`pralii`)  and `@Solv` (`solu.tion`).
 
+
+<<<<<<< HEAD
+Test.
+
+
+=======
+>>>>>>> origin/main
 
