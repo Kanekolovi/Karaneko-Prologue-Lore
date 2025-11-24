@@ -59,5 +59,6 @@ This is a very young project for now. More thanks incoming.
 - **Yurim** for being the cutest cat
 
 # Contact
-For any concerns, you may find me (us) easily on Discord, this page is co-owned by user `@Pralii~~` (`pralii`)  and `@Solv` (`solu.tion`).
+For any concerns, you may find us easily on Discord, this page is co-owned by user `@Pralii~~` (`pralii`)  and `@Solv` (`solu.tion`).
+
 
