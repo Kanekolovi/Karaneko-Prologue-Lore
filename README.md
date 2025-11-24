@@ -42,18 +42,7 @@ We're onto it though.
 If you think something is missing, or would like to add in a theory or links, or join the video production process, or even questions/doubts about some things, **you surely can!**
 Please **join the official Karaneko Discord** and get in touch with people in `#karaneko-lore-vid-discussion`. That will make things easier.
 
-Ping me (`@Pralii~~`) on Discord so that I add you as a contributor. 
-## How do I contribute? I forgot...
-This is destined for people who find GitHub complicated and are collaborators.
-
-- click "add file" (next to green `<> Code` button) -> upload files
-- Choose the files you want to poactively update/upload
-- Write a title and description of your contribution
-- Create a new Branch and name it  (automatically selected)
-- Create Pull Request
-- It will then be reviewed to make sure it doesn't break everything and merges properly. Informing the discord is a good idea.
-
-
+Ping `@Pralii~~` or `@Solv` for help.
 # Acknowledgements
 Big thanks to:
 - **The KARANEKO team** for making this awesome universe
@@ -70,8 +59,12 @@ This is a very young project for now. More thanks incoming.
 - **Yurim** for being the cutest cat
 
 # Contact
-For any concerns, you may find me (us) easily on Discord, this page is owned by user `@Pralii~~` (`pralii`) .
+For any concerns, you may find us easily on Discord, this page is co-owned by user `@Pralii~~` (`pralii`)  and `@Solv` (`solu.tion`).
 
+
+<<<<<<< HEAD
 Test.
 
 
+=======
+>>>>>>> origin/main
