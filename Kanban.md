@@ -7,16 +7,19 @@ kanban-plugin: board
 ## Completed
 
 **Complete**
-- [x] Setting up Obsidian sync
+- [x] Setting up Obsidian plugins ✅ 2025-11-24
+- [x] Setting up Obsidian sync ✅ 2025-11-24
 
 
 ## in progress
 
-- [ ] Setting up Obsidian plugins
+- [ ] Compile notes from the demo
 
 
 ## Todo
 
+- [ ] Compiles notes from caturday posts
+- [ ] Compile notes from socials
 
 
 
