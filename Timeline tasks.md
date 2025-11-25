@@ -1,0 +1,22 @@
+- [x] Decide the depth/plan of the video ✅ 2025-11-24
+- basic run of the demo, with obvious explanations that everyone gets (every ending)
+- Missable details that add consistency to the above explained lore
+- Explanations with details that link things together for a deeper understanding
+- Funny details that add some character to the game
+- _**Caturday news**_
+- More links with caturday
+- Outside stuff (kickstarter, discord, alphas...)
+- Theories
+- Bonus: Yurim psychology analysis/theory/dissertation/demo breakdown (I have written personally a lot about that to a friend) and same with other characters
+
+- [/] Have some tool to organize ourselves (obsidian + sync + plugins)
+
+- [ ] Compile notes on all possible aspects of the demo, along with other sources such as caturday and socials
+- [ ] Link notes to any other notes they may relate to, indicate and annotate how they may be related and build upon the story.
+- [ ] Create a plan and script for how the video will be formatted.
+- [ ] Gather B-roll shots of relevant images/videos which may be needed for the visuals of the video.
+- [ ] Record audio of the script, incorporate sound effects and decide what music should go at what parts for atmospheric effect.
+- [ ] Edit footage/audio together, ensure that the end product is satisfactory.
+- [ ] Ensure all people who assisted are duly recorded in the credits.
+- [ ] Publish video
+- [ ] ~~receive free Yurim plushies from the dev team for our hard work and effort~~
