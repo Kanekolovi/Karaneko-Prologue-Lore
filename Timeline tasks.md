@@ -9,9 +9,11 @@
 - Theories
 - Bonus: Yurim psychology analysis/theory/dissertation/demo breakdown (I have written personally a lot about that to a friend) and same with other characters
 
-- [/] Have some tool to organize ourselves (obsidian + sync + plugins)
+- [x] Have some tool to organize ourselves (obsidian + sync + plugins) ✅ 2025-11-24
 
 - [ ] Compile notes on all possible aspects of the demo, along with other sources such as caturday and socials
+
+
 - [ ] Link notes to any other notes they may relate to, indicate and annotate how they may be related and build upon the story.
 - [ ] Create a plan and script for how the video will be formatted.
 - [ ] Gather B-roll shots of relevant images/videos which may be needed for the visuals of the video.
