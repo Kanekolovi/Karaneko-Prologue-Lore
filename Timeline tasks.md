@@ -12,7 +12,7 @@
 - [x] Have some tool to organize ourselves (obsidian + sync + plugins) ✅ 2025-11-24
 
 - [ ] Compile notes on all possible aspects of the demo, along with other sources such as caturday and socials
-## ------------------------—We are here---------------------------
+## -----------------------–-We are here---------------------------
 ___
 
 

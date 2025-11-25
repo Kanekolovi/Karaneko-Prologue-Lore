@@ -11,9 +11,10 @@ kanban-plugin: board
 - [x] Setting up Obsidian sync ✅ 2025-11-24
 
 
-## in progress
+## in progress (Compile notes from the demo)
 
-- [ ] Compile notes from the demo
+- [ ] [[Compile notes from the real world]]
+- [ ] [[Compile notes from the academy]]
 
 
 ## Todo
