@@ -12,6 +12,8 @@
 - [x] Have some tool to organize ourselves (obsidian + sync + plugins) ✅ 2025-11-24
 
 - [ ] Compile notes on all possible aspects of the demo, along with other sources such as caturday and socials
+## ------------------------—We are here---------------------------
+___
 
 
 - [ ] Link notes to any other notes they may relate to, indicate and annotate how they may be related and build upon the story.
