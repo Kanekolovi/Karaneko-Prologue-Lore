@@ -16,7 +16,7 @@ And thus began the glorious reign of the mighty Velkar gods.
 
 [[Vegoia]] flourished in knowledge and benevolence under the guidance of the [[Desirée - God of Wisdom|Wise One]]. 
 
-[[Ryuujin]]'s [[God of Life - Duragin|God of Life]] has built an unshakable order from it's foundation. 
+[[Ryuujin]]'s [[God of Life - Durai|God of Life]] has built an unshakable order from it's foundation. 
 
 The adoring people of [[Ninova]] we're blessed by love. 
 They stepped into the graceful path of [[Ninova|God of Love]]. 
