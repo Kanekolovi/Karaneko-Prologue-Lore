@@ -14,6 +14,7 @@ kanban-plugin: board
 ## in progress (Compile notes from the demo)
 
 - [ ] [[Compile notes from the real world]]
+- [ ] Analyze music
 
 
 ## Todo
