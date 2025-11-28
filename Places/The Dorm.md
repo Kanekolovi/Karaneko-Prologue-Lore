@@ -5,3 +5,4 @@ The dorm is where you spend the second part of the prologue, in [[The academy]].
 
 
 It being winter and at night confirms the isekaisation is temporally coherent and quick.
+

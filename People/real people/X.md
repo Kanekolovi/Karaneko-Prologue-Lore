@@ -47,8 +47,6 @@ X because she's his ex lmao
 
 but Karam still thinks about her. He has X’s number in his pockets and still carries around her hair tie. She is still obsessed over Karam but their relation got awkward since the incident due to Karam holing himself up.
 
-
-
 > It is not clearly stated or deductible that it's before or after the incident But we can think about it and assume that their relation changed greatly indirectly _because_ of the incident affecting them both personally on how they manage relations in this post-traumatic time. I doubt it was a direct degradation because of how the incident occurred, rather more something like they both changed a lot and are going through things
 
 
