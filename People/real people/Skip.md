@@ -1,4 +1,4 @@
 - Tried to make [[Karam]] install some games for [[The gang]], but you never did. [[Razor]] and [[Pepenu]]
 - Not studious
-- Deleted by mistake the kids games..
+- Accidentally deleted the kids games..
 -  Works at the store

@@ -14,13 +14,13 @@ kanban-plugin: board
 ## in progress (Compile notes from the demo)
 
 - [ ] [[Compile notes from the real world]]
-- [ ] [[Compile notes from the academy]]
 
 
 ## Todo
 
 - [ ] Compiles notes from caturday posts
 - [ ] Compile notes from socials
+- [ ] [[Compile notes from the academy]]
 
 
 

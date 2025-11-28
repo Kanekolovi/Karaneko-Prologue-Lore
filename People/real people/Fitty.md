@@ -2,4 +2,4 @@
 - Part of [[The gang]]
 - noodle guy
 - Hangs out mainly with [[Mupton]]
-talks abouit bday pic
+talks about bday pic
