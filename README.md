@@ -48,8 +48,8 @@ Big thanks to:
 - **The KARANEKO team** for making this awesome universe
 - **Mau** and **Power**, part of the dev team and staff for answering some of our questions with well-placed comments about our ramblings
 - **Solv** for being the igniting spark *"you should do a video"* and engine of this project
-- **Alec** for hanging out often and being moral support
-- **Deder** for hanging out often and being moral support, finding things out and analyzing the official Karaneko OST
+- **Alec** for hanging out often and being moral support and digging up sprites
+- **Deder** for hanging out often and being moral support, finding things out and analyzing the official Karaneko OST 
 - **Noodle** for being the designated "dataminer"
 - **Sobol14** for being there from time to time
 - **Kirby** for being our volunteer video editor
