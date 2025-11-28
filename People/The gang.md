@@ -1,8 +1,16 @@
 - cool ppl
-- [[Karam]] is boss
+- [[Karam]] is boss; the whole gang is very attached to Karam, and the situation degraded for everyone once Karam isolated himself.
 - [[Sari]]
 - Used to have tournaments every week at [[Karam's Home|Karam's]]. [[Mupton]] forgot his controller there
 - [[Ark]]
 - [[Skip]]
+- [[Fites]]
+- [[Fitty]]
+- [[Laiin]]
+- [[Mupton]]
+- [[Pepenu]]
+- [[Razor]]
+- [[Nayan]]
+- [[X]]
 - Used to have exam cramming sessions given by Karam. But you all stopped studying after the incident.
-
+- Had pine cones fight on the park

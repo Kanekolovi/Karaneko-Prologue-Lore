@@ -30,10 +30,18 @@ Transcript of discussion with Power:
     
 5. ### Pralii~~
     
-    -> It is not clearly stated or deductible that it's before or after the incident But we can think about it and assume that their relation changed greatly indirectly _because_ of the incident affecting them both personally on how they manage relations in this post-traumatic time. I doubt it was a direct degradation because of how the incident occured, rather more something like they both changed a lot and are going through things
+    
 
 
 
 
 - Is studious
-X because she's his ex
+X because she's his ex lmao
+- As she lost her whole family in the incident (source: Ark) and Karam isolated himself, she changed appearance significantly and died her hair. 
+- She still loves [[Karam]], but Karam doesn’t pay her attention since the incident.
+
+- In Caturday news, she almost abandoned her sentiments for Karam「I was about to give up when… I saw you wearing the hair tie I gave you on your wrist.」but Karam still thinks about her. He has X’s number in his pockets and still carries around her hair tie. She is still obsessed over Karam but their relation got awkward since the incident due to Karam holing himself up.
+
+
+
+-> It is not clearly stated or deductible that it's before or after the incident But we can think about it and assume that their relation changed greatly indirectly _because_ of the incident affecting them both personally on how they manage relations in this post-traumatic time. I doubt it was a direct degradation because of how the incident ocurred, rather more something like they both changed a lot and are going through things
