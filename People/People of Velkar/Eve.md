@@ -8,4 +8,4 @@
 - associated most with the color red ( whereas l Luminyan is yellow, Laschka is blue etc,)
 - Is the leader of a gang in ryujin and seeks to overthrow the current order (seen via the karaneko kickstarter when talking about the hakure route)
 - Eve’s eye color appears to be a combination of red green and yellow (Likely from her part fox heritage) 
-- Somehow knows about te wolf and scolds you for not killing it (as seen in the ending where you leave yurim to die)
+- Somehow knows about to wolf and scolds you for not killing it (as seen in the ending where you leave yurim to die)
