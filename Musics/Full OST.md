@@ -1,6 +1,7 @@
 snAmbians2:
 ```audio-player
 [[snAmbians2.wav]]
+00:00:00 --- Leitmotif with snHome and snYurimRoom
 ``` 
 snAnaMenu:
 ```audio-player
@@ -25,6 +26,7 @@ snBossTheme:
 snCatmob:
 ```audio-player
 [[snCatmob.wav]]
+00:00:02 --- Leitmotif with snPinkForest
 ``` 
 snDouhouMenuTheme:
 ```audio-player
