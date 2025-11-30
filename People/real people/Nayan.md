@@ -1,12 +1,12 @@
-- [[Karam]]'s little brother
+- [[Karam (IRL)]]'s little brother
 - adorable ball of brotherly cuteness
 - Completed [[Touhou]] easy mode! Took him all night! ggs
-- Challenges [[Karam]] to gaming duels often, though he seems to always lose. The singular exception being a pillow fight with Voli the pirate whale. He doesn't always finish his chess matches properly.
+- Challenges [[Karam (IRL)]] to gaming duels often, though he seems to always lose. The singular exception being a pillow fight with Voli the pirate whale. He doesn't always finish his chess matches properly.
 - Loves his brother.
 - Is confident in his cooking skills, but not very proficient. Relying despite his best efforts on big bro Karam.
 - Has a very good sense of smell for his favorite [[Nayan's Sandwich|Sandwich]] 
 - Nayan received a pet fish "Jack" from [[X]] at around the same time Karam received  [[Yurim]] at his [[Birthday]].Jack died but he keeps the fishbowl of his legendary crew in his room for good memories.
-- He can play Piano, and even wrote a (scrapped) song to his brother together with [[Laiin]], although he's a bit ashamed of that...
+- He can play Piano, and even wrote a (scrapped) song to his brother together with [[Lain]], although he's a bit ashamed of that...
 - Makes a promise with Karam (and Yurim!) to always be together.
 
 

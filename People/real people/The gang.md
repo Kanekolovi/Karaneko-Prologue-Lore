@@ -1,12 +1,12 @@
 - cool ppl
-- [[Karam]] is boss; the whole gang is very attached to Karam, and the situation degraded for everyone once Karam isolated himself.
+- [[Karam (IRL)]] is boss; the whole gang is very attached to Karam, and the situation degraded for everyone once Karam isolated himself.
 - [[Sari]]
 - Used to have tournaments every week at [[Karam's Home|Karam's]]. [[Mupton]] forgot his controller there
 - [[Ark]]
 - [[Skip]]
 - [[Fites]]
 - [[Fitty]]
-- [[Laiin]]
+- [[Lain]]
 - [[Mupton]]
 - [[Pepenu]]
 - [[Razor]]

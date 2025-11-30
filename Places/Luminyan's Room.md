@@ -1,0 +1,1 @@
+[[Luminyan]] DOESN’T let you enter while he’s here, even if you go there before the [[Training session]] begins.

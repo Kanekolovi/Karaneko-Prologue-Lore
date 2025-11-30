@@ -1,0 +1,2 @@
+- After picking the wand up, we meet Luminyan, disturbed by our presence this late. The cold sweat on his portrait hints that he is still disturbed after the failed ritual (hypothesis) 
+- [[Luminyan]] can catch you trying to enter his room and then brings you by force into [[Laschka]]’s room.

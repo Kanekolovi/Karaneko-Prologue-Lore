@@ -38,7 +38,7 @@ Transcript of discussion with Power:
 - Is studious
 X because she's his ex lmao
 - As she lost her whole family in the incident (source: Ark) and Karam isolated himself, she changed appearance significantly and dyed her hair. 
-- She still loves [[Karam]], but Karam doesn’t pay her attention since the incident.
+- She still loves [[Karam (IRL)]], but Karam doesn’t pay her attention since the incident.
 
 - In Caturday news, she almost abandoned her sentiments for Karam
 
