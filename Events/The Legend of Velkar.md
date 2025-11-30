@@ -1,4 +1,4 @@
-- The [[Intro Cutscene RAW.mp4]] of the game
+- The Intro cutscene of the game
 
 Rumor has it that, the [[Divine Mother]] was pregnant with the being we call 'human'. 
 The Divine Mother adored the human. 
@@ -23,4 +23,4 @@ They stepped into the graceful path of [[Ninova|God of Love]].
 
 She was supposed to exist for the people, Yet the unexpected happened..."
 
--- game cutscene shuts off. It was [[Karam (IRL)]] playing on his PC and Nayan shut off by walking on the socket button xd.
+-- game cutscene shuts off. It was [[Karam (IRL)]] playing on his PC and Nayan shut it off by walking on the socket button xd.
