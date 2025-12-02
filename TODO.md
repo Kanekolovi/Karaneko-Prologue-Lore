@@ -9,11 +9,12 @@ kanban-plugin: board
 **Complete**
 - [x] Setting up Obsidian plugins ✅ 2025-11-24
 - [x] Setting up Obsidian sync ✅ 2025-11-24
+- [x] [[Compile notes from the real world]] ✅ 2025-11-29
 
 
 ## in progress (Compile notes from the demo)
 
-- [ ] [[Compile notes from the real world]]
+- [ ] Review and complete notes from the real world
 - [ ] Analyze music
 
 
