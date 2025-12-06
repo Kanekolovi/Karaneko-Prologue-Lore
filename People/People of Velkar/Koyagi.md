@@ -1,0 +1,2 @@
+- Shows no cape.
+- Has a magical sxword that seems very powerful (neutralises and absorbs black magic)

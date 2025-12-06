@@ -53,7 +53,8 @@ snEve2:
 snEveFight:
 ```audio-player
 [[snEveFight.wav]]
-``` 
+```
+
 snEveTheme:
 ```audio-player
 [[snEveTheme.wav]]
@@ -150,3 +151,4 @@ snYurimTheme:
 ```audio-player
 [[snYurimTheme.wav]]
 ``` 
+
