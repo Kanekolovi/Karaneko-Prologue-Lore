@@ -12,3 +12,4 @@
 
 Random neat interactions and details
 - You can stand in front of Nayan when he wants to watch the television.
+- You can let him win by loosing on purpose (he get the big head)
