@@ -8,7 +8,7 @@ It being winter and at night confirms the isekaisation is temporally coherent an
 
 The mirror in the corridor reflects a **stranger** version of you upon seeing your new “Academy” look. This implies Karam is aware of his physical changes and finds that strange too.
 
-The Carpet on the floor of the corridor has the same logo as the green book in [[Yurim's house]]. This implies that [[Finnion]] sourced his books from [[Vegoia]].
+The Carpet on the floor of the corridor has the same logo as the green book in [[Yurim's House]]. This implies that [[Finnion]] sourced his books from [[Vegoia]].
 
 
 

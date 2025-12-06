@@ -1,0 +1,8 @@
+- There can be only one Yurim
+- You can be called Luminyan-nyan
+- Not another Oskos (you just can’t)
+- doesn’t react to Rose/Rosemyne/Ophelia
+- Lasch-ka? Is that right?
+- Calling yourself Finnion isn’t really funny
+- Eve is a really cool name (power is that you)
+- Karam/Nayan are familiar names
