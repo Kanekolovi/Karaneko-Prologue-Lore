@@ -51,13 +51,13 @@ One other thing that she made were missing person posters. Having crossed one ea
 >[!quote] Yurim:
 >Let’s go look somewhere else.
 
-Looking ahead, the park is not far, but from the outer edges of it Yurim spots and approaches a person in a cloak. She starts talking to them by confirming if they’re one of the people that came the day before.
+Looking ahead, the park is not far, and standing along the edges of it was a hooded person. Yurim goes ahead of Karam and talks to them.
 ![[Sideye.png|right]]
 >[!quote] Yurim:
 >We didn’t get to talk much yesterday. That shadow lord kid kept interrupting you. Hahahaha. What’s up?
 
 ![[Halicalledit'blep'.png|right]]
-
+They turned to face Karam and Yurim.
 ![[CalmRose.png|right]]
 >[!quote] Cloaked Person:
 >Hmm, hello… Yurim. And… I don’t think we’ve met yet.
