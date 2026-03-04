@@ -18,7 +18,7 @@ And that she made them;
 >[!quote] Yurim:
 >I had read a few things about signs in a friend's books.
 
-This is the first time she refers to another friend. She apparently fought with them to make the signs look cuter. The signs pointed to all the locations important to Yurim, the bottom-left is to her house, the bottom-right is to a forest, and the top is to the library. And while remarking about it, she hoped she could introduce Karam to the friend of hers, followed by silence.
+This is the first time she refers to this friend of hers. She apparently fought with them to make the signs look cuter. The signs pointed to all the locations important to Yurim, the bottom-left is to her house, the bottom-right is to a forest, and the top is to the library. And while remarking about it, she hoped she could introduce Karam to the friend of hers, followed by silence.
 
 The two proceed to her home and remarks a pink tree that she planted.
 ![[YurimsTree.png]]
@@ -39,9 +39,11 @@ This is one point in the game where Karam is free to roam, though straying too f
 
 <center><h3>The Pink Forest</h3></center>
 
-As Karam is directed to go to the park, he is, from time to time, intercepted by other inhabitants of the Pink Forest, each with their own little bit of remarks. 
+The areas of the Pink Forests are defined by Yurim’s signs. The right half Is the “Wilder” Forest area, and the left having Yurim’s house, the park of the Pink Forest, and the Library of the Pink Forest. Scattered around are interactable ‘people’.
 
-Besides frequent combat encounters, Yurim shares that a lot of things in the Pink Forest was made by her, such as the streetlamps, as well as a small bridge that the two use.
+As Karam walks through the forest, he is frequently intercepted by other residents of the Pink Forest. 
+
+Yurim shares that a lot of things in the Pink Forest was made by her, such as the streetlamps, as well as a small bridge that the two use.
 ![[What she's made.png|center]]
 And just nearby the bridge, stuck on a tree, is what seems like a poster.
 ![[The Librarian.png|center]]
@@ -84,7 +86,7 @@ Rose is cut off as Yurim says yes. And she’s glad she noticed. And restates th
 
 Yurim then invites Rose as her and Karam are headed to the library, with the plan to look at the rest of the forest after. She politely declines and says that she has to go back to her friends. As well as a remark to one of them. She bids farewell as she didn’t want to keep them for long.
 
-Perhaps this is the part where the detail of the npcs should be brought up…
+
 
 
 [^1]: The special interactions with names should go here…
