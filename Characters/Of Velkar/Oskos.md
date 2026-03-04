@@ -4,7 +4,7 @@
 - “Mightiest servant of the Shadow lord, and the one destined to surpass him.”
 - Ophelia once said that Oskos has “worlds he has created in his mind”
 - (For intiality)Goes along with her sister as she <span style="color:rgb(122, 211, 255)">investigates</span> Yurim.
-- <span style="color:rgb(122, 211, 255)">Has a certain disconnect to the ‘reality’ around him, immersed within his own.</span> 
+- <span style="color:rgb(122, 211, 255)">Has a certain disconnect to ‘reality’ around him, immersed within his own.</span> 
 
 - Relevant caturdays:
 ```ad-example
