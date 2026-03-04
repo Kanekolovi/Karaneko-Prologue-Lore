@@ -84,7 +84,7 @@ And after, Yurim asks Rose if she likes the Pink Forest.
 
 Rose is cut off as Yurim says yes. And she’s glad she noticed. And restates that she’s been in the Pink Forest for a long time, and has made most of things in the Pink Forest. 
 
-Yurim then invites Rose as her and Karam are headed to the library, with the plan to look at the rest of the forest after. She politely declines and says that she has to go back to her friends. As well as a remark to one of them. She bids farewell as she didn’t want to keep them for long.
+Yurim then invites Rose as her and Karam are headed to the library, with the plan to look at the rest of the forest after. She politely declines and says that she has to go back to her friends, leaving a remark to one of them. She bids farewell as she didn’t want to keep them for long.
 
 
 
