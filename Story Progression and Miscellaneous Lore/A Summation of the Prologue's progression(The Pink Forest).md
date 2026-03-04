@@ -43,9 +43,9 @@ The areas of the Pink Forests are defined by Yurim’s signs. The right half Is 
 
 As Karam walks through the forest, he is frequently intercepted by other residents of the Pink Forest. 
 
-Yurim shares that a lot of things in the Pink Forest was made by her, such as the streetlamps, as well as a small bridge that the two use.
+Yurim shares that a lot of things in the Pink Forest were made by her, such as the streetlamps, benches, and a small bridge that they use to get to the park faster, which was the reason why Yurim made it in the first place.
 ![[What she's made.png|center]]
-And just nearby the bridge, stuck on a tree, is what seems like a poster.
+One other thing that she made were missing person posters. Having crossed one earlier, Karam approached one that was close to the tiny bridge.
 ![[The Librarian.png|center]]
 ![[Lapse.png|right]]
 >[!quote] Yurim:
