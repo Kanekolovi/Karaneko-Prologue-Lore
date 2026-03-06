@@ -96,7 +96,7 @@ Yurim passes Karam and puts herself in front of the Library’s door.
 Then she mumbles, “I hope you’re here…”, before knocking at the door, standing still as the other side responds in silence. She turns her back against the door and apologizes to Karam for making him wait. She elaborates that that she has a small task to do at the Library everyday. 
 
 She moves the conversation ahead–Now that her task is done, she wants them to go to the fisherman and grab Alaskan Salmon to eat before they continue searching for the other visitors. All the while she continues to tour Karam.
-
+![[Fisherman.png|center]]
 
 
 
