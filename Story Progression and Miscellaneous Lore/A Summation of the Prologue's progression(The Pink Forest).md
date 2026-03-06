@@ -99,7 +99,12 @@ She moves the conversation ahead–Now that her task is done, she wants them to 
 ![[Fisherman.png|center]]
 Yurim is only able to get one Alaskan Salmon instead of her intended two, but doesn’t complain. To get back to Yurim’s house, they have to go back the way they came, which was now blocked by a bee.
 ![[HMIB.png|center]]
-After subduing the bee, a person with purple horns and a 
+After subduing the bee, a person with purple horns and a coat approaches from the other side of the bridge. He greets Yurim, and Yurim greets [[Oskos]] back.
+
+>[!quote] Oskos:
+>Actually, I did not come here for your insignificant presence.
+>
+
 
 
 
