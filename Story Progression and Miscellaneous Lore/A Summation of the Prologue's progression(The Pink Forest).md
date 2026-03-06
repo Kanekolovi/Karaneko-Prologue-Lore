@@ -88,7 +88,7 @@ Yurim cuts Rose off as she says yes, and she’s glad she noticed that. And rest
 Yurim then invites Rose along them as she and Karam plan to head to the library and intends to tour them the forest. Rose declines as she says that she has to go back to her friends, and mumbles a curt remark regarding one of her companions. She leaves as she didn’t want to waste the time of the ones before her.
 
 
-To the upper left of the park is a path leading to a large open area, or a “Garden”[^2], before the Library with more Forest residents.
+To the upper left of the park is a path leading to a large open area, or a “Garden”[^2], before the Library.
 
 
 
