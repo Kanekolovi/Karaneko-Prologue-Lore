@@ -115,6 +115,8 @@ Then the battle with Oskos begins with Yurim assisting Karam.
 
 
 
+
+
 [^1]: The special interactions with names should go here…
 	
 
