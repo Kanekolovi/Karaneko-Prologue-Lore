@@ -68,24 +68,24 @@ After Karam chooses to speak their name, the person–Rose, does in kind. She sa
 >[!quote] Rosemyne:
 >No, the name is not familiar to me at all… I haven’t seen a kid that looks like you either.
 
-
+After looking at Karam, she interjects her own question:
 ![[OphRose.png|right]]
 >[!quote] Rosemyne:
 >But Yurim seems to know this place really well. Tell me, Yurim, how long have you been in this forest?
 
-Yurim shuffles before responding:
+Yurim acts confused, ensuring it was her being asked. She shuffles before responding:
 ![[Lapse.png|right]]
 >[!quote] Yurim:
 >Ah, Rose actually… I have been in this forest for a long time. Most of the things you see around here, well, I’ve made them… Haha. I could say this forest is my masterpiece, heh.
 
-And after, Yurim asks Rose if she likes the Pink Forest. 
+After Yurim says that, she asks Rose if she likes her “masterpiece” .
 ![[CalmRose.png|right]]
 >[!quote] Rose:
 >It really is a special place. The pink trees... It’s such a nice touch. I guess you planted them, didn’t you? They seem younger that the other tre–
 
-Rose is cut off as Yurim says yes. And she’s glad she noticed. And restates that she’s been in the Pink Forest for a long time, and has made most of things in the Pink Forest. 
+Yurim cuts Rose off as she says yes, and she’s glad she noticed that. And restates that she’s been in the Pink Forest for a long time, and has made most of things in the Pink Forest. 
 
-Yurim then invites Rose as her and Karam are headed to the library, with the plan to look at the rest of the forest after. She politely declines and says that she has to go back to her friends, leaving a remark to one of them. She bids farewell as she didn’t want to keep them for long.
+Yurim then invites Rose along them as she and Karam plan to head to the library and intends to tour them the forest. Rose declines as she says that she has to go back to her friends
 
 
 
