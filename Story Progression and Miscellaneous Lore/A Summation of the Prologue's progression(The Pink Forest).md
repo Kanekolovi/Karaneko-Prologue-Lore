@@ -111,7 +111,7 @@ Oskos diverts heed to Karam, whom he saw “swat the bee with his bare hands.”
 
 Then the battle with Oskos begins with Yurim assisting Karam.
 
-
+In the midst of Karam dodging and trying to carry out his own attacks, a voice from behind the attacker calls their name.
 
 
 
