@@ -91,7 +91,7 @@ Yurim then invites Rose along them as she and Karam plan to head to the library 
 To the upper left of the park is a path leading to a large open area, or a “Garden”[^2], before the Library.
 (Library Image here, hehe)
 
-Yurim passes Karam and puts hers
+Yurim passes Karam and puts herself in front of the Library’s door
 
 
 
