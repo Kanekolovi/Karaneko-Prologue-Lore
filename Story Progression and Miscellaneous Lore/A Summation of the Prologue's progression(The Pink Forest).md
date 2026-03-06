@@ -85,7 +85,10 @@ After Yurim says that, she asks Rose if she likes her “masterpiece” .
 
 Yurim cuts Rose off as she says yes, and she’s glad she noticed that. And restates that she’s been in the Pink Forest for a long time, and has made most of things in the Pink Forest. 
 
-Yurim then invites Rose along them as she and Karam plan to head to the library and intends to tour them the forest. Rose declines as she says that she has to go back to her friends
+Yurim then invites Rose along them as she and Karam plan to head to the library and intends to tour them the forest. Rose declines as she says that she has to go back to her friends, and mumbles a curt remark regarding one of her companions. She leaves as she didn’t want to waste the time of the ones before her.
+
+
+To the left 
 
 
 
