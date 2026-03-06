@@ -39,9 +39,9 @@ This is one point in the game where Karam is free to roam, though straying too f
 
 <center><h3>The Pink Forest</h3></center>
 
-The areas of the Pink Forests are defined by Yurim’s signs. The right half Is the “Wilder” Forest area, and the left having Yurim’s house, the park of the Pink Forest, and the Library of the Pink Forest. Scattered around are interactable ‘people’.
+The areas of the Pink Forests are defined by Yurim’s signs. The right half Is the “Wilder” Forest area, and the left having Yurim’s house, the park of the Pink Forest, and the Library of the Pink Forest. Scattered around are interactable residents of the Pink Forest.
 
-As Karam walks through the forest, he is frequently intercepted by other residents of the Pink Forest. 
+As Karam around the Forest, he may also be intercepted by other Forest residents, and Karam can either engage in combat with them, or talk.
 
 Yurim shares that a lot of things in the Pink Forest were made by her, such as the streetlamps, benches, and a small bridge that they use to get to the park faster, which was the reason why Yurim made it in the first place.
 ![[What she's made.png|center]]
@@ -88,10 +88,12 @@ Yurim cuts Rose off as she says yes, and she’s glad she noticed that. And rest
 Yurim then invites Rose along them as she and Karam plan to head to the library and intends to tour them the forest. Rose declines as she says that she has to go back to her friends, and mumbles a curt remark regarding one of her companions. She leaves as she didn’t want to waste the time of the ones before her.
 
 
-To the left 
+To the upper left of the park is a path leading to a large open area, or a “Garden”[^2], before the Library with more Forest residents.
 
 
 
 
 [^1]: The special interactions with names should go here…
 	
+
+[^2]: Yurim refers to it as a Garden when first approached. Perhaps soon, it will be better fitted to be called a garden.
