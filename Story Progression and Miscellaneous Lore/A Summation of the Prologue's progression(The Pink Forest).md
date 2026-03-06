@@ -93,7 +93,7 @@ To the upper left of the park is a path leading to a large open area, or a “Ga
 
 Yurim passes Karam and puts herself in front of the Library’s door.
 ![[Sliver.png|center]]
-Then she mumbles, “”
+Then she mumbles, “I hope you’re here…”, before knowing at the doo
 
 
 
