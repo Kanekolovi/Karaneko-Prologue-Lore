@@ -97,7 +97,8 @@ Then she mumbles, “I hope you’re here…”, before knocking at the door, st
 
 She moves the conversation ahead–Now that her task is done, she wants them to go to the fisherman and grab Alaskan Salmon to eat before they continue searching for the other visitors. All the while she continues to tour Karam.
 ![[Fisherman.png|center]]
-
+Yurim is only able to get one Alaskan Salmon instead of her intended two, but doesn’t complain. To get back to Yurim’s house, they have to go back the way they came, which was now blocked by a bee.
+![[HMIB.png|center]]
 
 
 
