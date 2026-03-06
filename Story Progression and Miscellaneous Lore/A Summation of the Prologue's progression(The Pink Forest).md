@@ -73,7 +73,7 @@ After Karam chooses to speak their name, the person–Rose, does in kind. She sa
 >[!quote] Rosemyne:
 >But Yurim seems to know this place really well. Tell me, Yurim, how long have you been in this forest?
 
-Yurim shuffles and  responding:
+Yurim shuffles before responding:
 ![[Lapse.png|right]]
 >[!quote] Yurim:
 >Ah, Rose actually… I have been in this forest for a long time. Most of the things you see around here, well, I’ve made them… Haha. I could say this forest is my masterpiece, heh.
