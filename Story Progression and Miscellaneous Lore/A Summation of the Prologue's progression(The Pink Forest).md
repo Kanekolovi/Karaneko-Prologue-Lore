@@ -128,7 +128,7 @@ Oskos requests a few more moments to “unveil his power and to impart the shado
 
 Oskos is about to remark about his “handsome visage”, but was cut off from continuing further, says, “As you wish hahaha!”, and leaves the bridge free to cross. Then Yurim spots a shop cart had been set up so her and Karam approach it.
 ![[ShopCartEnt.png|center]]
-The person on in the cart ask to pay no mind to their sibling’s silly actions. Rose sighs and asks what Oskos 
+The person in the cart asks to pay no mind to their sibling’s silly actions. Rose sighs and asks Oskos “based on what, have you concluded it was right to give a child a sharp dagger?”
 
 
 
