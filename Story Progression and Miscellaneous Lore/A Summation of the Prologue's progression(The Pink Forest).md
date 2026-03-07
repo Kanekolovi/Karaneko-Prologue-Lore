@@ -121,7 +121,7 @@ Then from behind the attacker, a voice calls their name.
 >[!quote] Dark-horned Person:
 >To my customer -no, to my potential customer, what do you think you're doing? Ah, and to Yurim's esteemed guest as well. Such bad manners, Oskos.
 
-Oskos requests a few more moments 
+Oskos requests a few more moments to “unveil his power and to impart the shadow techniques” to Karam. His rhetoric does not sway her sister
 
 [^1]: The special interactions with names should go here…
 	
