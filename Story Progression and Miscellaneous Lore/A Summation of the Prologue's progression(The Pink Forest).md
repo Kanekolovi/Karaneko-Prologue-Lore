@@ -122,6 +122,15 @@ Then from behind the attacker, a voice calls their name.
 >To my customer -no, to my potential customer, what do you think you're doing? Ah, and to Yurim's esteemed guest as well. Such bad manners, Oskos.
 
 Oskos requests a few more moments to “unveil his power and to impart the shadow techniques” to Karam. His rhetoric does not sway her sister, and she reminds him to stop making random people into his servants.
+![[sOpheliaSpk2.png|right]]
+>[!quote] Oskos’ Sister:
+>Especially not in my territory.
+
+Oskos is about to remark about his “handsome visage”, but was cut off from continuing further, and says “As you wish hahaha!”
+
+
+
+
 
 
 [^1]: The special interactions with names should go here…
