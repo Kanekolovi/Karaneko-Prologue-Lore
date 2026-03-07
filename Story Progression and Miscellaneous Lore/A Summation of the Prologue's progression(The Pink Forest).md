@@ -126,7 +126,7 @@ Oskos requests a few more moments to “unveil his power and to impart the shado
 >[!quote] Oskos’ Sister:
 >Especially not in my territory.
 
-Oskos is about to remark about his “handsome visage”, but was cut off from continuing further, and says “As you wish hahaha!”
+Oskos is about to remark about his “handsome visage”, but was cut off from continuing further, and says “As you wish hahaha!” Then leaves the bridge free to cross, and Karam and Yurim see that a shop cart had been set up.
 
 
 
