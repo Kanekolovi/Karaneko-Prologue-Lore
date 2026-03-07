@@ -44,7 +44,7 @@ The areas of the Pink Forests are defined by Yurim’s signs. The right half Is 
 As Karam around the Forest, he may also be intercepted by other Forest residents, and Karam can either engage in combat with them, or talk.
 
 Yurim shares that a lot of things in the Pink Forest were made by her, such as the streetlamps, benches, and a small bridge that they use to get to the park faster, which was the reason why Yurim made it in the first place.
-![[What she's made.png|center]]
+![[What she has made.png|center]]
 One other thing that she made were missing person posters. Having crossed one earlier, Karam approached one that was close to the tiny bridge.
 ![[The Librarian.png|center]]
 ![[Lapse.png|right]]
@@ -137,6 +137,13 @@ The person in the cart asks to pay no mind to their sibling’s silly actions. R
 
 Yurim takes the question for Karam as she remarks he’s not one to talk much, as well sharing his name. And the woman says that they are [[Ophelia]].
 Yurim explains that Karam is looking for his brother, Nayan.
+![[sOpheliaSpk2.png|right]]
+>[!quote] Ophelia:
+>Ah, sweetie, did you lose your sibling? Is that why you look so sad?
+
+She then offers an embrace, and remarks she knows exactly what it feels to lose a sibling, but, apparently, always return to their older sibling. Oskos offers help and Rose leaves a snark comment. Ophelia says it’s been a lovely chat, but says that she must leave to supposedly try the delicacies of the Pink Forest, and leaves the cart in Oskos’ care and supervision. While Rose takes here leave as well to go clean up their house.
+
+Yurim says that she’d going home and cook the fish they got, asking if Karam wants to accompany her back home now or explore the Pink Forest himself.
 
 
 
