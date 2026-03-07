@@ -119,6 +119,7 @@ In the midst of Oskos’ attacks, he throws a [[Dagger of the 'Shadow Lord'|dagg
 Then from behind the attacker, a voice calls their name.
 ![[NeutOphe.png|center]]
 >[!quote] 
+>To my customer -no, to my potential customer, what do you think you're doing?
 
 
 
