@@ -131,6 +131,11 @@ Oskos is about to remark about his “handsome visage”, but was cut off from c
 The person in the cart asks to pay no mind to their sibling’s silly actions. Rose sighs and asks Oskos “based on what, have you concluded it was right to give a child a sharp dagger?”
 
 “The so-called child has successfully withstood my trial!” And Oskos defines that as the potential Karam has to be his servant. And the banter between them lasts for a few more moments.
+![[sOpheliaSpk2.png|right]]
+>[!quote] Oskos’ Sister:
+>So, *Little Shadowling*, tell me. What have you been up to around here?
+
+Yurim takes the question for Karam as she remarks he’s not one to talk much, as well sharing his name. And the woman says that they are [[Ophelia]].
 
 
 
