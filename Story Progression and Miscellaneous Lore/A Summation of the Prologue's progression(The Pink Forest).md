@@ -114,7 +114,9 @@ Yurim returns to the conversation and suggests that they fight Oskos to proceed,
 
 Yurim offers her aid in the fight as it starts.
 
-In the midst of Oskos’ attacks, he throws a [[Dagger of the 'Shadow Lord'|dagger]] at Karam and they manage to catch it. Oskos says, “Consider it a gift from the lord of shadows”. The fight continues with Karam dodging as much as could, whilst still preparing a counterattack
+In the midst of Oskos’ attacks, he throws a [[Dagger of the 'Shadow Lord'|dagger]] at Karam and they manage to catch it. Oskos says, “Consider it a gift from the lord of shadows”. The fight continues with Karam dodging as much as could, whilst still preparing a counterattack.
+
+Then from behind the attacker, a voice calls their name.
 ![[NeutOphe.png|center]]
 >[!quote] 
 
