@@ -136,7 +136,7 @@ The person in the cart asks to pay no mind to their sibling’s silly actions. R
 >So, *Little Shadowling*, tell me. What have you been up to around here?
 
 Yurim takes the question for Karam as she remarks he’s not one to talk much, as well sharing his name. And the woman says that they are [[Ophelia]].
-
+Yurim explains that Karam is looking for his brother, Nayan.
 
 
 
