@@ -105,8 +105,9 @@ Oskos then spoke with emphasis on how he didn’t approach for Yurim’s “insi
 Yurim replies, “Ohh, really? How sad”
 
 Oskos diverts heed to Karam:
+![[OskAstonish.png|right]]
 >[!quote] Oskos:
->
+>The kid next to you! Did you just swat the bee with your bare hand!?
 
 
 And he goes on a short tangent about Karam now being a shadowling. Yurim returns in conversation and suggests fighting Oskos to proceed without him following them around, says Yurim. She then seeks confirmation from Karam that he isn’t his brother.
