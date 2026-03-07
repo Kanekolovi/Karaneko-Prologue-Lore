@@ -112,7 +112,7 @@ Oskos diverts heed to Karam:
 He goes on to call Karam a “Shadowling” with ‘potential’, and the title of “Little Shadowling”. 
 Yurim returns to the conversation and suggests that they fight Oskos to proceed, so as to prevent him from following them around, as well as mentioning that he couldn’t be Karam’s brother, based on the looks alone.
 
-In the battle, Yurim helps Karam.
+Yurim offers her aid in the fight as it starts.
 
 In the midst of Oskos’ attacks, he throws a [[Dagger of the 'Shadow Lord'|dagger]] at Karam and they manage to catch it. Oskos says, “Consider it a gift from the lord of shadows”. The fight continues with Karam dodging as much as could, whilst still preparing a counterattack
 ![[NeutOphe.png|center]]
