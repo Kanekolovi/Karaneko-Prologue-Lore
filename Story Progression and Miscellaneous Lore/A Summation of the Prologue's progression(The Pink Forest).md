@@ -110,11 +110,11 @@ Oskos diverts heed to Karam:
 >The kid next to you! Did you just swat the bee with your bare hand!?
 
 He goes on to call Karam a “Shadowling” with ‘potential’, and the title of “Little Shadowling”. 
-Yurim returns to the conversation and suggests fighting Oskos to proceed without him following them around, says Yurim. She then seeks confirmation from Karam that he isn’t his brother.
+Yurim returns to the conversation and suggests that they fight Oskos to proceed, so as to prevent him from following them around, as well as mentioning that he couldn’t be Karam’s brother, based on the looks alone.
 
-Then the battle with Oskos begins with Yurim assisting Karam.
+In the battle, Yurim helps Karam.
 
-In the midst of Karam dodging and trying to counter-attack, a voice from behind the attacker shouts their name.
+In the midst of Oskos’ attacks, he throws a [[Dagger of the 'Shadow Lord'|dagger]] at Karam and they manage to catch it. Oskos says, “Consider it a gift from the lord of shadows”. The fight continues with Karam dodging as much as could, whilst still preparing a counterattack
 ![[NeutOphe.png|center]]
 >[!quote] 
 
