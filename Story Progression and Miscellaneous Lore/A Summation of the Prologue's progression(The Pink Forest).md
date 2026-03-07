@@ -99,12 +99,9 @@ She moves the conversation ahead–Now that her task is done, she wants them to 
 ![[Fisherman.png|center]]
 Yurim is only able to get one Alaskan Salmon instead of her intended two, but doesn’t complain. To get back to Yurim’s house, they have to go back the way they came, which was now blocked by a bee.
 ![[HMIB.png|center]]
-After subduing the bee, a person with purple horns and a coat approaches from the other side of the bridge. He greets Yurim, and Yurim greets [[Oskos]] back.
-![[Windup.png|right]]
->[!quote] Oskos:
->Actually, I did not come here for your insignificant presence.
->
-
+After subduing the bee(through dialogue or ‘rough’ persuasion), a person with purple horns and coat approaches from the other side of the bridge. 
+He greets Yurim, and Yurim greets [[Oskos]] back.
+Oskos then spoke with emphasis on how he didn’t approach for Yurim’s “insignificant presence.”
 Yurim replies, “Ohh, really? How sad”
 
 Oskos diverts heed to Karam, whom he saw “swat the bee with his bare hands.” And he goes on a short tangent about Karam now being a shadowling. Yurim returns in conversation and suggests fighting Oskos to proceed without him following them around, says Yurim. She then seeks confirmation from Karam that he isn’t his brother.
