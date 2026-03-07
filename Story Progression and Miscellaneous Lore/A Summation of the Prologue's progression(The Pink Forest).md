@@ -119,10 +119,9 @@ In the midst of Oskos’ attacks, he throws a [[Dagger of the 'Shadow Lord'|dagg
 Then from behind the attacker, a voice calls their name.
 ![[NeutOphe.png|center]]
 >[!quote] Dark-horned Person:
->To my customer -no, to my potential customer, what do you think you're doing?
+>To my customer -no, to my potential customer, what do you think you're doing? Ah, and to Yurim's esteemed guest as well. Such bad manners, Oskos.
 
-
-
+Oskos requests a few more moments 
 
 [^1]: The special interactions with names should go here…
 	
