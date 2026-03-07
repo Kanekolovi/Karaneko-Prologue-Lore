@@ -109,8 +109,9 @@ Oskos diverts heed to Karam:
 >[!quote] Oskos:
 >The kid next to you! Did you just swat the bee with your bare hand!?
 
+He goes on to call Karam a “Shadowling” with ‘potential’, and the title of “Little Shadowling”. 
 
-And he goes on a short tangent about Karam now being a shadowling. Yurim returns in conversation and suggests fighting Oskos to proceed without him following them around, says Yurim. She then seeks confirmation from Karam that he isn’t his brother.
+Yurim returns in conversation and suggests fighting Oskos to proceed without him following them around, says Yurim. She then seeks confirmation from Karam that he isn’t his brother.
 
 Then the battle with Oskos begins with Yurim assisting Karam.
 
