@@ -130,6 +130,8 @@ Oskos is about to remark about his “handsome visage”, but was cut off from c
 ![[ShopCartEnt.png|center]]
 The person in the cart asks to pay no mind to their sibling’s silly actions. Rose sighs and asks Oskos “based on what, have you concluded it was right to give a child a sharp dagger?”
 
+“The so-called child has successfully withstood my trial!” And Oskos defines that as the potential Karam has to be his servant. And the banter between them lasts for a few more moments.
+
 
 
 
