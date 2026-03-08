@@ -144,8 +144,11 @@ Yurim explains that Karam is looking for his brother, Nayan.
 She then offers an embrace, and remarks she knows exactly what it feels to lose a sibling, but, apparently, always return to their older sibling. Oskos offers help and Rose leaves a snark comment. Ophelia says it’s been a lovely chat, but says that she must leave to supposedly try the delicacies of the Pink Forest, and leaves the cart in Oskos’ care and supervision. While Rose takes her leave as well to go clean up their house.
 
 
-Yurim asks Karam if he wants to go back to the house with her, or if he wanted to explore the forest himself, as she was wanted to go home and cook the fish.
+Yurim asks Karam if he wants to go back to the house with her, or if he wanted to explore the forest himself, as she was wants to go home and cook the fish. 
 
+Karam decides to go home with Yurim.
+
+<center><h3></h3></center>
 
 
 
