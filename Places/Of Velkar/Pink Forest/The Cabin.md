@@ -1,0 +1,1 @@
+![[CabinRoom.png]]

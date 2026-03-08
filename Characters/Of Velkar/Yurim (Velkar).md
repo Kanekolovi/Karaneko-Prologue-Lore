@@ -5,6 +5,7 @@
 - (For initiality) [[Finnion - The Librarian]], gave Yurim “seeds” that eventually grew into trees with pink leaves. Yurim planted the “seeds” everywhere in the [[Pink Forest |Green Forest]], and “everything” turned pink. 
 - Her favourite color is pink(Noted to account for the possibility that this will become important later)
 - While she knows how to read and write, she may have trouble reading complicated matter; She “never understands what [the green book in her room] is about”.
+- She cooks and “foodnaps” everyday, although it has been a while she hasn’t felt the warmth of someone while falling asleep.  
 - (For initiality)Created *most* things in the forest. How much is ‘most’? Indeterminable(A list is preferable).
 - (For initiality)<span style="color:rgb(251, 254, 77)">She’s known at some point in her time in the</span> [[Pink Forest]] <span style="color:rgb(251, 254, 77)">that it and it’s people are </span><span style="color:rgb(251, 254, 77)">fake</span>(likely when Finnion first came into the [[Pink Forest |Forest]]); In the same conversation where she’s angry at Rose for saying that it’s fake, she also remarks that for the first time in ages, she felt like she had **real** friends; 
 ```ad-quote
