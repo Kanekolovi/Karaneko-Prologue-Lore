@@ -154,6 +154,7 @@ As the Karam and Yurim arrive at her abode, she tells Karam to go take a foodnap
 
 
 
+
 [^1]: The special interactions with names should go here…
 	
 
