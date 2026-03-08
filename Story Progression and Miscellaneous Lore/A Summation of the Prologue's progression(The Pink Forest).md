@@ -156,8 +156,10 @@ The two lay down next to each other.
 “Every day, I put the food on the stove and then lie down here or somewhere else.” she says, “When the food is ready, the delicious smells always wake me up”
 
 Then she shares, “It's been a long time since I've foodnapped while feeling someone's warmth.” And then she falls asleep.
-
-
+![[Foodnapped.png|center]]
+Karam wakes up with Yurim out of bed. He meet her outside having already set up the table and food.
+![[YurimDinner.png|center]]
+Yurim intended to wake Karam, then asks him to the seat as the food is ready.
 
 
 
