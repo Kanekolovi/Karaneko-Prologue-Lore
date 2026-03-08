@@ -150,7 +150,8 @@ Karam decides to go home with Yurim.
 
 ![[Cooking.png|center]]
 As the Karam and Yurim arrive at her abode, she tells Karam to go take a foodnap in her room while she prepares dinner, and even explaining it as Karam didn’t seem to understand what she meant.
-
+![[Yurim'sBedroom.png|center]]
+Karam went to Yurim’s room at her request and waits
 
 
 
