@@ -148,8 +148,10 @@ Yurim asks Karam if he wants to go back to the house with her, or if he wanted t
 
 Karam decides to go home with Yurim.
 
-<center><h3></h3></center>
+![[Cooking.png]]
+As the Karam and Yurim arrive at her abode, she tells Karam to go take a foodnap in her room while she prepares dinner, 
 
+After another moment.
 
 
 
