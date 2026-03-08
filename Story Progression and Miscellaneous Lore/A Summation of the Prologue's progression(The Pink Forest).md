@@ -153,7 +153,7 @@ As the Karam and Yurim arrive at her abode, she tells Karam to go take a foodnap
 ![[Foodnap.png|center]]
 The two lay down next to each other. 
 
-“Every day, I put the food on the stove and then lie down here or somewhere else.” she says, “When the food is ready, the delicious smells ”
+“Every day, I put the food on the stove and then lie down here or somewhere else.” she says, “When the food is ready, the delicious smells always wake me up”
 
 
 
