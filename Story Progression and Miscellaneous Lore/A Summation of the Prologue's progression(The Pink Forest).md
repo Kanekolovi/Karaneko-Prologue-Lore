@@ -99,21 +99,45 @@ She moves the conversation ahead–Now that her task is done, she wants them to 
 ![[Fisherman.png|center]]
 Yurim is only able to get one Alaskan Salmon instead of her intended two, but doesn’t complain. To get back to Yurim’s house, they have to go back the way they came, which was now blocked by a bee.
 ![[HMIB.png|center]]
-After subduing the bee, a person with purple horns and a coat approaches from the other side of the bridge. He greets Yurim, and Yurim greets [[Oskos]] back.
-![[Windup.png|right]]
->[!quote] Oskos:
->Actually, I did not come here for your insignificant presence.
->
-
+After subduing the bee(through dialogue or ‘rough’ persuasion), a person with purple horns and coat approaches from the other side of the bridge. 
+He greets Yurim, and Yurim greets [[Oskos]] back.
+Oskos then spoke with emphasis on how he didn’t approach for Yurim’s “insignificant presence.”
 Yurim replies, “Ohh, really? How sad”
 
-Oskos diverts heed to Karam, whom he saw “swat the bee with his bare hands.” And he goes on a short tangent about Karam now being a shadowling. Yurim returns in conversation and suggests fighting Oskos to proceed without him following them around, says Yurim. She then seeks confirmation from Karam that he isn’t his brother.
+Oskos diverts heed to Karam:
+![[OskAstonish.png|right]]
+>[!quote] Oskos:
+>The kid next to you! Did you just swat the bee with your bare hand!?
 
-Then the battle with Oskos begins with Yurim assisting Karam.
+He goes on to call Karam a “Shadowling” with ‘potential’, and the title of “Little Shadowling”. 
+Yurim returns to the conversation and suggests that they fight Oskos to proceed, so as to prevent him from following them around, as well as mentioning that he couldn’t be Karam’s brother, based on the looks alone.
 
-In the midst of Karam dodging and trying to carry out his own attacks, a voice from behind the attacker calls their name.
+Yurim offers her aid in the fight as it starts.
+
+In the midst of Oskos’ attacks, he throws a [[Dagger of the 'Shadow Lord'|dagger]] at Karam and they manage to catch it. Oskos says, “Consider it a gift from the lord of shadows”. The fight continues with Karam dodging as much as could, whilst still preparing a counterattack.
+
+Then from behind the attacker, a voice calls their name.
 ![[NeutOphe.png|center]]
->[!quote] 
+>[!quote] Dark-horned Person:
+>To my customer -no, to my potential customer, what do you think you're doing? Ah, and to Yurim's esteemed guest as well. Such bad manners, Oskos.
+
+Oskos requests a few more moments to “unveil his power and to impart the shadow techniques” to Karam. His rhetoric does not sway her sister, and she reminds him to stop making random people into his servants.
+![[sOpheliaSpk2.png|right]]
+>[!quote] Oskos’ Sister:
+>Especially not in my territory.
+
+Oskos is about to remark about his “handsome visage”, but was cut off from continuing further, says, “As you wish hahaha!”, and leaves the bridge free to cross. Then Yurim spots a shop cart had been set up so her and Karam approach it.
+![[ShopCartEnt.png|center]]
+The person in the cart asks to pay no mind to their sibling’s silly actions. Rose sighs and asks Oskos “based on what, have you concluded it was right to give a child a sharp dagger?”
+
+“The so-called child has successfully withstood my trial!” And Oskos defines that as the potential Karam has to be his servant. And the banter between them lasts for a few more moments.
+![[sOpheliaSpk2.png|right]]
+>[!quote] Oskos’ Sister:
+>So, *Little Shadowling*, tell me. What have you been up to around here?
+
+Yurim takes the question for Karam as she remarks he’s not one to talk much, as well sharing his name. And the woman says that they are [[Ophelia]].
+Yurim explains that Karam is looking for his brother, Nayan.
+
 
 
 
