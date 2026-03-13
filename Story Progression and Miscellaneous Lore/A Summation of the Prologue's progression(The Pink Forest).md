@@ -167,6 +167,14 @@ Just as Karam sits down and Yurim “Enjoy your meal”, someone bangs at the do
 >[!quote] Yurim:
 >I better check the door.
 
+![[DinnerInterruption.png|center]]
+Rose apologizes as they’ve seemed to have interrupted their meal, as well as for Oskos having given Yurim a scare. She goes ahead and tells why they came: Tonight, they’re having a small celebration at their house and invites the two of them over. Oskos pushes by telling Karam it might ease his mind.
+
+Yurim gleefully accepts, even taking the fish so that they can all share. 
+![[InvitationAccepted.png|center|150]]
+
+
+
 [^1]: The special interactions with names should go here…
 	
 
