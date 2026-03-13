@@ -162,6 +162,7 @@ Karam wakes up alone in Yurim’s room. Leaving, he sees Yurim had already set t
 “The food is ready, if you'd like, sit down and we can start.”
 ![[YurimDinner2.png|center]]
 Just as Karam sits down and Yurim “Enjoy your meal”, someone bangs at the door. Startling Yurim, <span style="color:rgb(255, 176, 66)">and Karam</span>.
+![[FearYurim.png|right]]
 
 
 
