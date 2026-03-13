@@ -160,7 +160,8 @@ Then she shares, “It's been a long time since I've foodnapped while feeling so
 Karam wakes up alone in Yurim’s room. Leaving, he sees Yurim had already set the food and table. Yurim notices him and says that she was actually going to wake him up.
 ![[YurimDinner.png|center]]
 “The food is ready, if you'd like, sit down and we can start.”
-
+![[YurimDinner2.png|center]]
+Karam sits down
 
 
 
