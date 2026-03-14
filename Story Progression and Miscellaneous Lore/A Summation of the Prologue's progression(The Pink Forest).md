@@ -172,6 +172,9 @@ Rose apologizes as they’ve seemed to have interrupted their meal, as well as f
 
 Yurim gleefully accepts, even taking the fish so that they can all share. 
 ![[InvitationAccepted.png|center|150]]
+Karam follows along the directions told to Rose’s house.
+The forest is empty as they walk.
+
 
 
 
