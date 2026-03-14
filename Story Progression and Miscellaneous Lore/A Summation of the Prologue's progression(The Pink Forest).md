@@ -175,8 +175,8 @@ Yurim gleefully accepts, even taking the fish so that they can all share.
 Karam follows along the directions told to Rose’s house as they tread through a forest devoid of it’s residents.
 ![['Rose's house'.png|center]]
 ![['Rosehouse'OpheWelcom.png|center]]
-Soon enough, they arrive, and is greeted by Ophelia.
-
+Soon enough, they arrive, and is greeted by Ophelia. She says that Oskos caught two rabbits and was about to cook them, as well as a “blueberry drink”. After an exchange of remarks regarding the amount of food, Ophelia asks for Yurim’s help in the kitchen corner.
+![[AHouseInthePinkForest.png|center]]
 
 
 
