@@ -174,8 +174,8 @@ Yurim gleefully accepts, even taking the fish so that they can all share.
 ![[InvitationAccepted.png|center|150]]
 Karam follows along the directions told to Rose’s house as they tread through a forest devoid of it’s residents.
 ![['Rose's house'.png|center]]
-Soon enough, they arrive.
-
+![['Rosehouse'OpheWelcom.png|center]]
+Soon enough, they arrive, and is greeted by Ophelia.
 
 
 
