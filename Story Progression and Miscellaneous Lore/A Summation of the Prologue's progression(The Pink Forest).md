@@ -178,6 +178,7 @@ Karam follows along the directions told to Rose’s house as they tread through 
 Soon enough, they arrive, and is greeted by Ophelia. She says that Oskos caught two rabbits and was about to cook them, as well as a “blueberry drink”. After an exchange of remarks regarding the amount of food, Ophelia asks for Yurim’s help in the kitchen corner.
 ![[AHouseInthePinkForest.png|center]]
 
+After talking with Oskos, Rose, and the person wearing a shark costume
 
 
 
