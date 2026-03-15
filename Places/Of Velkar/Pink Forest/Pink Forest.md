@@ -1,1 +1,1 @@
-(Karam) Accessed via the wardrobe in [['Karam's' Room(Academy, or Velkar)|Karam’s Room]], it is a  major area that can be split into three sectors.
+(Karam) Accessed via the wardrobe in [['Karam's' Room(Academy, or Velkar)|Karam’s Room]], it is a  major area that can be split into three sectors, and one 
