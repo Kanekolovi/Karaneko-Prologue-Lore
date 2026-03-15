@@ -191,6 +191,7 @@ Soon enough, they arrive, and is greeted by Ophelia. She says that Oskos caught 
 
 After talking with Oskos, Rose, and the person wearing a shark costume. 
 Karam approaches Yurim and she asks for his help setting the ‘table’
+![[DinnerInThePinkForest.png|center]]
 
 
 
