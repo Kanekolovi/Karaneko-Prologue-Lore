@@ -192,8 +192,11 @@ Soon enough, they arrive, and is greeted by Ophelia. She says that Oskos caught 
 After talking with Oskos, Rose, and the person wearing a shark costume. 
 Karam approaches Yurim and she asks for his help setting the ‘table’
 ![[DinnerInThePinkForest.png|center]]
+They briefly talk about the Pink Forest:
+>[!quote] Yurim:
+>I've been living here for a long time, but many others live here too. And they are all just as lovely as I am!
 
-
+As her answer to Ophelia asking if she “built” what’s in the Pink Forest(Or perhaps the Pink Forest itself)
 
 [^1]: The special interactions with names should go here…
 	
