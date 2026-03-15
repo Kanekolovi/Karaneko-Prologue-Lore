@@ -204,7 +204,8 @@ Oskos attempts to correct the misinterpretation, but is interrupted by…
 >[!quote] Oskos:
 >”My stomach…”
 
-And he
+He retches and Rose quickly stood to handle the “Troublemaker” outside and apologizes by proxy. Yurim accepts it but would’ve liked if he finished what he was going to say. Ophelia apologizes for Oskos as well, saying that he is too naive of his actions.
+Yurim dismisses further talk about it.
 
 
 [^1]: The special interactions with names should go here…
