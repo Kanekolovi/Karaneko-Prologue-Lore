@@ -1,0 +1,1 @@
+(Karam) Accessed via the wardrobe in [[Karam's Room(Earth)]], it is the 
