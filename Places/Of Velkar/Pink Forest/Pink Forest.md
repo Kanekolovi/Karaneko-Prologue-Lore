@@ -1,1 +1,1 @@
-(Karam) Accessed via the wardrobe in [[Karam's Room(Earth)]], it is the 
+(Karam) Accessed via the wardrobe in [['Karam's' Room(Academy, or Velkar)|Karam’s Room]], it is the biggest area in the prologue containing three major sections
