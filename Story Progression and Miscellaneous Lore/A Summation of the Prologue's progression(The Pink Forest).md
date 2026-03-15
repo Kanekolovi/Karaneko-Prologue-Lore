@@ -52,6 +52,9 @@ One other thing that she made were missing person posters. Having crossed one ea
 >Let’s go look somewhere else.
 
 Looking ahead, the park is not far, and standing along the edges of it was a hooded person. Yurim goes ahead of Karam and talks to them.
+
+<center><h3>First Meeting with Rose</h3></center>
+
 ![[Sideye.png|right]]
 >[!quote] Yurim:
 >We didn’t get to talk much yesterday. That shadow lord kid kept interrupting you. Hahahaha. What’s up?
@@ -101,6 +104,9 @@ Yurim is only able to get one Alaskan Salmon instead of her intended two, but do
 ![[HMIB.png|center]]
 After subduing the bee(through dialogue or ‘rough’ persuasion), a person with purple horns and coat approaches from the other side of the bridge. 
 He greets Yurim, and Yurim greets [[Oskos]] back.
+
+<center><h3>First Meeting with Oskos and Ophelia</h3></center>
+
 Oskos then spoke with emphasis on how he didn’t approach for Yurim’s “insignificant presence.”
 Yurim replies, “Ohh, really? How sad”
 
@@ -141,15 +147,17 @@ Yurim explains that Karam is looking for his brother, Nayan.
 >[!quote] Ophelia:
 >Ah, sweetie, did you lose your sibling? Is that why you look so sad?
 
-She then offers an embrace, and remarks she knows exactly what it feels to lose a sibling, but, apparently, always return to their older sibling. Oskos offers help and Rose leaves a snark comment. Ophelia says it’s been a lovely chat, but says that she must leave to supposedly try the delicacies of the Pink Forest, and leaves the cart in Oskos’ care and supervision. While Rose takes her leave as well to go clean up their house.
+She offers an embrace, and remarks she knows exactly what it feels to lose a sibling, but, apparently, always return to their older sibling. Oskos offers help and Rose leaves a snark comment. Ophelia says it’s been a lovely chat, but says that she must leave to supposedly try the delicacies of the Pink Forest, and leaves the cart in Oskos’ care and supervision. While Rose takes her leave as well to go clean up their house.
 
 
 Yurim asks Karam if he wants to go back to the house with her, or if he wanted to explore the forest himself, as she was wants to go home and cook the fish. 
 
 Karam decides to go home with Yurim.
 
+<center><h3>Foodnap</h3></center>
+
 ![[Cooking.png|center]]
-As the Karam and Yurim arrive at her abode, she tells Karam to go take a foodnap in her room while she prepares dinner, and even explaining it as Karam didn’t seem to understand what she meant. As Karam does not go inside her room, Yurim finishes preparing and scolds Karam, so she restates her request and goes ahead of him.
+As the Karam and Yurim arrive at her house, she tells Karam to go take a foodnap in her room while she prepares dinner, and even explaining it as Karam didn’t seem to understand what she meant. As Karam does not go inside her room, Yurim finishes preparing and scolds Karam, so she restates her request and goes ahead of him.
 ![[Foodnap.png|center]]
 The two lay down next to each other. 
 
@@ -171,6 +179,9 @@ Just as Karam sits down and Yurim “Enjoy your meal”, someone bangs at the do
 Rose apologizes as they’ve seemed to have interrupted their meal, as well as for Oskos having given Yurim a scare. She goes ahead and tells why they came: Tonight, they’re having a small celebration at their house and invites the two of them over. Oskos pushes by telling Karam it might ease his mind.
 
 Yurim gleefully accepts, even taking the fish so that they can all share. 
+
+<center><h3></h3></center>
+
 ![[InvitationAccepted.png|center|150]]
 Karam follows along the directions told to Rose’s house as they tread through a forest devoid of it’s residents.
 ![['Rose's house'.png|center]]
