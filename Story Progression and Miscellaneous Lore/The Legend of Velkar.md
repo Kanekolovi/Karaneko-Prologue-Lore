@@ -8,7 +8,7 @@ Adrift humanity lost it's chastity, corrupted itself and the promised vicinity
 Yet, when the time came, the Divine Mother was not indifferent at all. 
 Some called it the apocalypse, others the day of reckoning. 
 It ended the corrupt civilization while heralding the birth of a new one. 
-The new civilization was [[Velkar]], with its three main regions. 
+The new civilization was [[Of Velkar]], with its three main regions. 
 
 The Divine Mother's young and beloved people... 
 The Divine Mother entrusted her people to the 'gods'. 

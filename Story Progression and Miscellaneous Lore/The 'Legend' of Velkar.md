@@ -16,7 +16,7 @@ Some called it the apocalypse, others the day of reckoning.
 It ended the corrupt civilization while heralding the birth of a new one. 
 ![[Malachi.png |center]]
 
-The new civilization was [[Velkar]].
+The new civilization was [[Of Velkar]].
 ![[Velkar and the 'gods'.png |center]]
 The Divine Mother's young and beloved people... 
 The Divine Mother entrusted her people to the 'gods'. 
