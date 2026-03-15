@@ -200,7 +200,11 @@ As her answer to Ophelia asking if she “built” what’s in the Pink Forest(O
 Oskos manages to interject by commenting that all the talk he has heard has been about the Pink Forest. Rose notices he may have gotten too tipsy to make that comment, yet Yurim takes it and apologizes for her ‘enthusiasm’ regarding the forest.
 
 Oskos attempts to correct the misinterpretation, but is interrupted by…
+![[FlusOsk.png|right]]
+>[!quote] Oskos:
+>”My stomach…”
 
+And he
 
 
 [^1]: The special interactions with names should go here…
