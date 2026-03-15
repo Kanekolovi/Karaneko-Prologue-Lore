@@ -1,1 +1,1 @@
-(Karam) Accessed via the wardrobe in [['Karam's' Room(Academy, or Velkar)|Karam’s Room]], it is the biggest area in the prologue containing three major sections
+(Karam) Accessed via the wardrobe in [['Karam's' Room(Academy, or Velkar)|Karam’s Room]], it is a  major area that can be split into three sectors.
