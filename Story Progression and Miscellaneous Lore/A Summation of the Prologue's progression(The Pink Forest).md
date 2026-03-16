@@ -231,9 +231,20 @@ As the exchange concluded, Ophelia had finished making breakfast and makes Yurim
 
 Yurim hushes the silent Karam to pry on what the two are talking about.
 
+>[!quote] Rose:
+>I can’t stay here any longer. I cannot stand this fake, artificial place. I don’t even know why Ophelia dragged us here. Everyone here is insane! 
+>Or maybe they’re all under some kind of spell. Doing the same things, speaking the exact same words. They never move during the day. And at night, they just…vanish. Even you can perceive this not normal. 
+>What kind of place is this? 
+>Who’s behind all this? 
+>Is this all Yurim’s doing? 
+>Or…are they even people? 
+>Is this even a real forest? 
+>I cannot take it.
 
-
-
+![['TheTruthOfThePinkForest'.png]]
+![[CurioRose.png|right]]
+>[!quote] Rose:
+>I’m not staying her anymore! I’m leaving…You can stay here in this blissful pink forest if you wish so.
 
 
 
