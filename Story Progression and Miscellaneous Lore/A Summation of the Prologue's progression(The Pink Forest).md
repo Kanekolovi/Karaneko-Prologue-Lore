@@ -207,6 +207,15 @@ Oskos attempts to correct the misinterpretation, but is interrupted by…
 He retches and Rose quickly stood to handle the “Troublemaker” outside and apologizes by proxy. Yurim accepts it but would’ve liked if he finished what he was going to say. Ophelia apologizes for Oskos as well, saying that he is too naive of his actions.
 Yurim dismisses further talk about it.
 
+She passes the topic to how they ended up in the Pink Forest.
+![[NeutOphe.png|right]]
+>[!quote] Ophelia:
+>You know, Yurim, I'm a merchant, and I travel across Velkar, finding interesting potions, or magical items to deliver to my clients on the other side of the world. My next stop is here, and if you don’t mind, I’d like to take a little bit of Pink Tree seeds with me.
+
+
+
+
+
 
 [^1]: The special interactions with names should go here…
 	
