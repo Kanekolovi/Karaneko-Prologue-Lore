@@ -217,6 +217,21 @@ She passes the topic to how they ended up in the Pink Forest.
 >Pink Tree seeds, huh… Sure. I mean… Yeah you can take them. Not all of them are exclusive to me, anyway… He-he
 
 Ophelia says her thanks, and Yurim feels a bit worn out “Being a cat” for the day, and now wants to lie down and take a nap. She beckons Karam to lie down with her, <span style="color:rgb(255, 46, 46)">but</span> [[Rose's investigation|something that eludes him]] <span style="color:rgb(255, 46, 46)">is playing with his curiosity</span>. He eventually comes to lie down with Yurim.
+![[OphePinkForestRemark.png|center|500]]
+>[!quote] Ophelia:
+>How sound and sweet they sleep……Today really was such a beautiful day. Thank you for keeping me so entertained…However, I wish you didn’t have to be the one. Yurim.
+
+<center><h3>’The Truth Of The Pink Forest’</h3></center>
+Karam is greeted a good morning by Yurim first thing as they wake up. She comments that Karam must’ve been tired as they slept well, and Ophelia supposes that Karam must’ve journeyed much to have slept so deeply, or that maybe he’s just a “lazy kid”. 
+
+As the exchange concluded, Ophelia had finished making breakfast and makes Yurim make Karam make Oskos and Rose hither for breakfast. Yet Yurim comes with and leads themselves outside.
+
+>[!quote] Rose:
+>I’m telling you, Oskos–
+
+Yurim hushes the silent Karam to pry on what the two are talking about.
+
+
 
 
 
