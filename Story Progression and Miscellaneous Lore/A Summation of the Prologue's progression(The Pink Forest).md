@@ -216,7 +216,7 @@ She passes the topic to how they ended up in the Pink Forest.
 >[!quote] Yurim:
 >Pink Tree seeds, huh… Sure. I mean… Yeah you can take them. Not all of them are exclusive to me, anyway… He-he
 
-Ophelia says her thanks, and Yurim feels a bit worn out “Being a cat” for the day, and now wants to lie down and take a nap. She
+Ophelia says her thanks, and Yurim feels a bit worn out “Being a cat” for the day, and now wants to lie down and take a nap. She beckons Karam to lie down with her
 
 
 [^1]: The special interactions with names should go here…
