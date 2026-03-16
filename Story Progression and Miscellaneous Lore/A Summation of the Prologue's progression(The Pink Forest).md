@@ -212,9 +212,11 @@ She passes the topic to how they ended up in the Pink Forest.
 >[!quote] Ophelia:
 >You know, Yurim, I'm a merchant, and I travel across Velkar, finding interesting potions, or magical items to deliver to my clients on the other side of the world. My next stop is here, and if you don’t mind, I’d like to take a little bit of Pink Tree seeds with me.
 
+![[NervLaughYurim(1).png|right]]
+>[!quote] Yurim:
+>Pink Tree seeds, huh… Sure. I mean… Yeah you can take them. Not all of them are exclusive to me, anyway… He-he
 
-
-
+Ophelia says her thanks, and Yurim feels a bit worn out “Being a cat” for the day, and now wants to lie down and nap.
 
 
 [^1]: The special interactions with names should go here…
