@@ -3,7 +3,7 @@
 - Not another [[Oskos]] (you just can’t)
 - doesn’t react to Rose/[[Rosemyne]]/[[Ophelia]]
 - Lasch-ka? Is that right?
-- Calling yourself [[Finnion - The Librarian]] isn’t really funny
+- Calling yourself [[Finnion - The Librarian (Librarion Finnion)]] isn’t really funny
 - [[Eve]] is a really cool name (power is that you)
 - [[Karam(Earth)]]/[[Nayan]] are familiar names
 

@@ -1,0 +1,1 @@
+The country is in a poor state, order is no longer present. With no fertile soils for agriculture, poor trade routes, and education being inaccessible, the country was fated to crumble on itself. It having a poor economy is one of the major reason why things went so wrong. – CN 8/3/2024

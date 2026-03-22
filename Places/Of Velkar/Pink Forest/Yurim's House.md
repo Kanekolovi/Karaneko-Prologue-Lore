@@ -5,9 +5,9 @@ The General state of the house is pretty messy, but that doesn’t seem to bothe
 
 - Karam likes her place, he relaxes by seeing all this pink and the comfy couches.
 
-- The Green book inside probably come from [[Finnion - The Librarian]] (it has the logo of [[The Academy]]), Yurim doesn’t quite understand its contents but she stills appreciates it for filing her nails
+- The Green book inside probably come from [[Finnion - The Librarian (Librarion Finnion)]] (it has the logo of [[The Academy]]), Yurim doesn’t quite understand its contents but she stills appreciates it for filing her nails
 
-- A stack of [[Finnion - The Librarian]]’s search notices is on the floor. Yurim is evasive of the topic at first.
+- A stack of [[Finnion - The Librarian (Librarion Finnion)]]’s search notices is on the floor. Yurim is evasive of the topic at first.
 
 - There are a lot of hair scrunchie and little fish toys around, too many… They are Yurim’s favorite toys
 

@@ -1,3 +1,4 @@
+22 years old
 ![[Kickstarter Oskos.png |center]]
 -  <span style="color:rgb(255, 176, 66)">Blessed with a Dragon animal spirit.</span>
 - Along with his sister [[Ophelia]], and [[Rosemyne]], were the second instance of people who came to the [[Pink Forest |Forest]]. And, according to Yurim, came the day before [[Karam (Velkar)]];Unlike [[Rosemyne#^19d90e |Rosemyne]], Oskos and [[Ophelia]] have other goals within the [[Pink Forest]].

@@ -2,7 +2,7 @@
 
 - (For initiality)A ‘resident’ of the [[Pink Forest | Pink Forest(previously green forest)]]; Has been there for an indeterminate amount of time.
 - (For initiality)Familiar with the names, “Karam” and “Nayan” during the name selection. (Remember to link the relevant part of the plot)
-- (For initiality) [[Finnion - The Librarian]], gave Yurim “seeds” that eventually grew into trees with pink leaves. Yurim planted the “seeds” everywhere in the [[Pink Forest |Green Forest]], and “everything” turned pink. 
+- (For initiality) [[Finnion - The Librarian (Librarion Finnion)]], gave Yurim “seeds” that eventually grew into trees with pink leaves. Yurim planted the “seeds” everywhere in the [[Pink Forest |Green Forest]], and “everything” turned pink. 
 - Her favourite color is pink(Noted to account for the possibility that this will become important later)
 - While she knows how to read and write, she may have trouble reading complicated matter; She “never understands what [the green book in her room] is about”.
 - She cooks and “foodnaps” everyday, although it has been a while she hasn’t felt the warmth of someone while falling asleep.  

@@ -5,7 +5,7 @@ When chased around by the wolf, the sign point to where the next spot is.
 
 They are the most important places in the pink forest according to Yurim.
 1. [[Yurim’s House]]
-2. [[The Library]] ([[Finnion - The Librarian]])
+2. [[The Library]] ([[Finnion - The Librarian (Librarion Finnion)]])
 3. [[The Forest]] (Fisherman)
 
-Yurim made them cute even though [[Finnion - The Librarian]] said they aren’t supposed to be.
+Yurim made them cute even though [[Finnion - The Librarian (Librarion Finnion)]] said they aren’t supposed to be.

@@ -2,6 +2,7 @@
 >(Caturdays have been confirmed "inconsistent" with some aspects of the games lore; The following remark might not align with all of them.) "Was once a frequent visitor to the forest. A very close friend to Yurim. Teaching her things, playing with her, observing…How unfortunate it is that he doesn't visit anymore, or can't."
 
 - Race: Un-ascertainable. <span style="color:rgb(255, 176, 66)">But speculatively: Elf.</span>
+- 160 cm tall
 - The <span style="color:rgb(251, 254, 77)">first real person</span> Yurim met in the [[Pink Forest |Forest]]
 - Apparently built the library says Yurim
 - The person who gave Yurim seeds. Also saying that:

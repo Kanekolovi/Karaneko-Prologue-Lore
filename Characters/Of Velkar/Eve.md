@@ -8,6 +8,7 @@ Oh, well. Every 'sinner' has their future.
 
 ```
 - Of the Fox Clan. Yet her current status within it is undeterminable; Blessed by a Fox Animal Spirit.
+- 183 cm tall, like red salmon and music (a lot)
 - <span style="color:rgb(251, 254, 77)">Originally of the region</span> [[Ryuujin]], now staying at the [[Eve(And technically Laschka)'s Room |dorms]].
 - Cousins with [[Laschka]].
 - The founder of a small but "powerful rebellious gang" in [[Ryuujin]]. Despite denying being called 'Boss'([[Kickstarter page]])], [[Laschka]] himself says that Eve is a good leader.
