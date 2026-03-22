@@ -5,6 +5,8 @@
 - Ophelia once said that Oskos has “worlds he has created in his mind”
 - (For intiality)Goes along with her sister as she <span style="color:rgb(122, 211, 255)">investigates</span> Yurim.
 - <span style="color:rgb(122, 211, 255)">Has a certain disconnect to ‘reality’ around him, immersed within his own.</span> 
+- Sleeps on the couch in [[The Cabin]].
+- He is dazzled by a singer/idol of whom he has a poster un [[The Cabin]].
 
 - Relevant caturdays:
 ```ad-example

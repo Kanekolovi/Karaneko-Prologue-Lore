@@ -7,7 +7,7 @@ On the cardinal directions of the magic circle on the floor, we can see all thre
 
 We can also make out what look like a “I” in front of Vegoia’s symbol, a “II” in front of Ninova’s symbol, and a “IIII” in front of Ryuujin’s symbol. They might refer to numbers, but it is unknown why Ryuujin would be 4th and not third.
 
-As for the symbol on the chest, we could assume that we will be able to unlock it after finishing the Hakure Route (Vegoia).
+As for the symbol on the chest, we could assume that we will be able to unlock it after finishing the Hypocrita Route (Vegoia).
 
 All of this make one think that it might be related to the Apocalypse Route.
 

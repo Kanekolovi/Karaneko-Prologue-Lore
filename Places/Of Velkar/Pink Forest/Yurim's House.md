@@ -25,7 +25,7 @@ The first time you enter this house, she will not let you in her room if you try
 
 I (pralii) don’t really know where to put this next paragraph:
 Cool interactions happening at the house:
-- During her cleaning of the kitchen or cooking, you can be in her legs and annoy her, which, if done enough, may get you killed.
+- During her cleaning of the kitchen or cooking, you can be in her legs and annoy her. Which, if done enough, will get you killed.
 - During her cooking and you need to go to bed, it is in real time; you may wait and you get in the bedroom together, or you can go in the room, lie down and wait she finishes putting the meal on the stove. 
 
 
@@ -37,7 +37,7 @@ party, oskos/oph coming in, other graphics of this room
 
 
 - After Yurim’s Crashout, the exterior appearance changes a little:
-- ![[Yurim's house dark.png]]
+ ![[Yurim's house dark.png]]
 
 - The fluff contour is missing, letting us see what seems to be nails; as Yurim activates her 'black hole-looking magic, the entirety of the pink forest changes in darker tones, potentially revealing what it is really like without Yurim’s magical pink-tone influence.
 
@@ -45,4 +45,4 @@ party, oskos/oph coming in, other graphics of this room
 
 And, hidden in the files is an unused sprite of a room that matches its layout:
 ![[YurimPrison.png]]
-Todo: extract from discussions what we said/saw (iirc scratches, hole for appliances, Karto Di???, lock on her bedroom door)
+	Todo: extract from discussions what we said/saw (iirc scratches, hole for appliances, '“Karto Di???” on the wall, lock on her bedroom door)
