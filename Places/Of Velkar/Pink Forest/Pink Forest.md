@@ -26,9 +26,10 @@ The Pink Forest has two variants, with 33 ‘NPCs’ inhabiting the place:
 - Black hair glasses girl on a bench
 - Blonde on a bench
 - Pink heart hairpin girl on a bench
+We can also see fish in the water.
 
 of which 8 are aggressive:
-- Fox mommy
+- Fox mother (can be a normal npc through her [[Fox mother subquest]])
 - Mushroom girl
 - Bee
 - Xylophone Moth
@@ -37,9 +38,19 @@ of which 8 are aggressive:
 - Emotional ball
 - Turnip (many may inhabit the place)
 
-TODO: NPC don’t move don’t have much diverse life in their dialog (myeh some are more developed), and dissapear in the night, as Rose has noted.
+
+As Rose denotes in the second day, the npcs always stay at their spot and dissapear during the night. Yurim herself thinks the npc here are fake, surely to distract her from loneliness as almost nobody comes to visit her. That would be why some of them have very little awareness of context (whether you’re with yurim or not) and they are not materialized during the night. Yet some of them have a deeper relation with Yurim, such as the numerous turnips she has forced into doing the dishes, the parties she has had at home, the baby fox she abandoned.. We also see ghosts in the place of NPCs in the dead version of the pink forest.
+
+Most NPCs in the upper park are Nekoda’s drawings of devs! We might identify Mau with the milk_liking person, and some other people (but I don’t remember..)
+
+Yurim built a lot of structures in the pink forest: benches, bridges, lampposts.
+After being given pink tree seeds from Finnion, Yurim grew those pink trees and spread their leaves on the paths, that is where “Pink Forest” got its name! It apparently was green before, and Yurim says she might confuse the names sometimes but she has never confused them in-game nor in caturdays.
+snow doesn’t melt? (caturday? description?)
+
+TODO :
 Dark version
 Dead version with ghosts
+Find sprites of red forest?
 
 <h4>Pink Forest Crossroads(Voilee)</h4>
 
