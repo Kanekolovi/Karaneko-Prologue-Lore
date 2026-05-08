@@ -45,7 +45,7 @@ Most NPCs in the upper park are Nekoda’s drawings of devs! We might identify M
 
 Yurim built a lot of structures in the pink forest: benches, bridges, lampposts.
 After being given pink tree seeds from Finnion, Yurim grew those pink trees and spread their leaves on the paths, that is where “Pink Forest” got its name! It apparently was green before, and Yurim says she might confuse the names sometimes but she has never confused them in-game nor in caturdays.
-snow doesn’t melt? (caturday? description?)
+The snow in front of the Cabin is “fake”.  Yurim also says something about the snow when we first interact with the snowy trees. In old caturdays it is shown that snow does fall around here, but Yurim bein surprised at that time maybe shows that it doesn’t really snow in this part of the woods? There is also another spot that we do not have access to (Caturday TODO).
 
 TODO :
 Dark version
@@ -55,3 +55,7 @@ Find sprites of red forest?
 <h4>Pink Forest Crossroads(Voilee)</h4>
 
 ![[The_Pink_Forest.png]]
+
+Pink Forest (Night):
+
+**Every NPC is nowhere to be seen**, objects interactions are normal apart from some being uninteractable (library, lamp signs, snow and items near the cabin). The christmas tree dissapears too. Not much of note.

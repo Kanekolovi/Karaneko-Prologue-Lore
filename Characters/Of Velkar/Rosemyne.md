@@ -3,6 +3,9 @@
 - (Potentially outdated canon)<span style="color:rgb(255, 176, 66)">Seemingly foreign to</span> [[Vegoia]][^1], and <span style="color:rgb(255, 176, 66)">doesn’t appear to be blessed by an animal spirit</span>, there is also nothing but the process of elimination to say she is of [[Ninova]]. Thus, her place of origin is indeterminable.
 - <span style="color:rgb(251, 254, 77)">A “Priestess”</span>, according to Yurim’s description[^2]. <span style="color:rgb(251, 254, 77)">A “Mage”</span>, according to he Kickstarter description.
 - *Conceptualized by “Power”*
+- Her bag has a golden symbol on the front; a circle with three elements in it.
+- Seeing as when you go to the exit portal during the party night she says along the lines of “You can’t go without Yurim”, “we can’t let them bring any harm to her”, “I trust you”; She is aware (and also is the one informing the player) of the important fate Yurim holds. Yet, in Yurim’s house she warns Karam to stay away especially from Yurim. 
+- “As long as I am here I have the ability to protect you but our stay won’t be long.” : I think Rosemyne’s presence is what delayed the wolf’s coming. 
 
 - Relevant caturdays:
 ```ad-example

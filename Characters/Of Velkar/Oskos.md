@@ -9,6 +9,8 @@
 - Sleeps on the couch in [[The Cabin]].
 - He is dazzled by a singer/idol of whom he has a poster un [[The Cabin]].
 
+Although he does pass as a “chuunibyou”; obsessed with dark power fantasies and “Shadow Lord”, one ending with Ophelia and a few caturdays show that the shadow organisation DOES exist, and it is probably as Oskos keeps talking about. TODO See and log the council, Frea diary #1 or 2 or 3
+
 - Relevant caturdays:
 ```ad-example
 title: Caturday - Oskos and Ophelia first arriving in the forest

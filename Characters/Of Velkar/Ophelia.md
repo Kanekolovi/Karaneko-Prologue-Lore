@@ -4,6 +4,8 @@
 - (Whilst drunk, and for initiality)She was expecting a “He” to show up.
 - A supposed “merchant”.
 - (For intiality)<span style="color:rgb(122, 211, 255)">Knows more about Yurim than she’s letting on</span>; She intends to ‘Catch’ Yurim at the “knife ending” of the demo.
+- Definitely freaky; She “adore introverted and depressed kids like [Karam]”, “want to tie a chain around your neck and take you around. We’d have so much fun, right?"
+- She has a patch on her lower left shoulder, hiding a tatoo.
 
 - Relevant caturdays:
 ```ad-example

@@ -1,6 +1,6 @@
 ![[CabinRoom.png]]
 
-A house north of [[The Forest]], where the four strangers [[Oskos]], [[Ophelia]], [[Rosemyne]], and [[Shark cosplayer]] sleep for the night. The only time we can enter it is for the party night. By comparing with the We see some of their belongings: A fish tank, a Diamond Armor, Oskos’s Superfan Poster; writing supplies and a pile of scrolls on the table (probably Rose’s).
+A house north of [[The Forest]], where the four strangers [[Oskos]], [[Ophelia]], [[Rosemyne]], and [[Shark cosplayer]] sleep for the night. The only time we can enter it is for the celebration night. By comparing with the Caturday image we see some of their belongings: An aquarium, soap, a Diamond Armor, Oskos’s Superfan Poster, dishes and nap, a lamp, writing supplies and a pile of scrolls on the table (probably Rose’s).
 
 - It was dirty when they arrived, it seems Yurim doesn’t use this place often.
 - [[Oskos]] Sleeps on the couch
