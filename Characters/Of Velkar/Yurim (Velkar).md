@@ -6,7 +6,7 @@
 - Her favourite color is pink(Noted to account for the possibility that this will become important later)
 - While she knows how to read and write, she may have trouble reading complicated matter; She “never understands what [the green book in her room] is about”.
 - She cooks and “foodnaps” everyday, although it has been a while she hasn’t felt the warmth of someone while falling asleep.  
-- (For initiality)Created *most* things in the forest. How much is ‘most’? Indeterminable(A list is preferable).
+- (For initiality)Created *most* things in the forest. How much is ‘most’? Indeterminable(A list is preferable, see [[Pink Forest]]).
 - (For initiality)<span style="color:rgb(251, 254, 77)">She’s known at some point in her time in the</span> [[Pink Forest]] <span style="color:rgb(251, 254, 77)">that it and it’s people are </span><span style="color:rgb(251, 254, 77)">fake</span>(likely when Finnion first came into the [[Pink Forest |Forest]]); In the same conversation where she’s angry at Rose for saying that it’s fake, she also remarks that for the first time in ages, she felt like she had **real** friends; 
 ```ad-quote
 Yurim: "Are real people like you?"
@@ -16,6 +16,15 @@ In the following conversation with Yurim, she also says that she **has** to love
 ```ad-quote
 “The souls you will bring to this land… to Velkar-“
 ```
+
+Theory: She has memory loss since the moment she arrived in the pink forest. We don’t know if she was sent directly into it by Durai and Desiree, but during the evening at the window, she says 
+
+```ad-quote
+“It feels like there was no time before the pink forest“
+“It's like I was born here, grew up here, and will grow old here.“
+“I don't remember when I arrived.“
+```
+
 
 - Relevant caturdays:
 ```ad-example

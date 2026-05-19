@@ -32,12 +32,15 @@ of which 8 are aggressive:
 - Fox mother (can be a normal npc through her [[Fox mother subquest]])
 - Mushroom girl
 - Bee
-- Xylophone Moth
-- Pianist butterfly
-- Drums spider
+- Xylophone Moth\* \*\*
+- Pianist butterfly\*
+- Drums spider\*
 - Emotional ball
 - Turnip (many may inhabit the place)
 
+\*Those three ennemies are actually playing the music in the pink forest, When you kill them with the dagger, their instrument dissapears from the background music until only silence and birds is left…
+
+\*\* The Xylophone moth is the only enemy who change his attacks patterns if you attack him with the dagger, showcasing dynamic difficulty.
 
 As Rose denotes in the second day, the npcs always stay at their spot and dissapear during the night. Yurim herself thinks the npc here are fake, surely to distract her from loneliness as almost nobody comes to visit her. That would be why some of them have very little awareness of context (whether you’re with yurim or not) and they are not materialized during the night. Yet some of them have a deeper relation with Yurim, such as the numerous turnips she has forced into doing the dishes, the parties she has had at home, the baby fox she abandoned.. We also see ghosts in the place of NPCs in the dead version of the pink forest.
 
@@ -45,7 +48,7 @@ Most NPCs in the upper park are Nekoda’s drawings of devs! We might identify M
 
 Yurim built a lot of structures in the pink forest: benches, bridges, lampposts.
 After being given pink tree seeds from Finnion, Yurim grew those pink trees and spread their leaves on the paths, that is where “Pink Forest” got its name! It apparently was green before, and Yurim says she might confuse the names sometimes but she has never confused them in-game nor in caturdays.
-The snow in front of the Cabin is “fake”.  Yurim also says something about the snow when we first interact with the snowy trees. In old caturdays it is shown that snow does fall around here, but Yurim bein surprised at that time maybe shows that it doesn’t really snow in this part of the woods? There is also another spot that we do not have access to (Caturday TODO).
+The snow in front of the Cabin is “fake”.  Yurim also says something about the snow when we first interact with the snowy trees. In old caturdays it is shown that snow does fall around here, but Yurim being surprised at that time maybe shows that it doesn’t really snow in this part of the woods? There is also another spot that we do not have access to (in a Caturday TODO).
 
 TODO :
 Dark version
@@ -58,4 +61,4 @@ Find sprites of red forest?
 
 Pink Forest (Night):
 
-**Every NPC is nowhere to be seen**, objects interactions are normal apart from some being uninteractable (library, lamp signs, snow and items near the cabin). The christmas tree dissapears too. Not much of note.
+**Every NPC is nowhere to be seen**, objects interactions are normal apart from some being uninteractable (library, lamp signs, snow and items near the cabin). The christmas tree and black flowers dissapears too. Not much of note.

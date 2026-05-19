@@ -7,6 +7,7 @@ A house north of [[The Forest]], where the four strangers [[Oskos]], [[Ophelia]]
 - [[Rosemyne]] sleeps on her mattress with her wand under it
 - [[Ophelia]] sleeps on the bed, tidied by her servant [[Shark cosplayer]].
 
+You can go out while everyone is preparing the food.
 
 
 Relevant Caturdays:
