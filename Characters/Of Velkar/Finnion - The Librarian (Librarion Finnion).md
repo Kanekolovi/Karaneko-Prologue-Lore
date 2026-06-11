@@ -14,9 +14,7 @@
 - He's the friend that told Yurim about the [[Black Flower]]s, and how they 'bring people closer together'.
 - Carries books that bear the “Vegoia Motif”
 - Said to Yurim that he comes from a chaotic and noisy place, though that may be a normal busy place by our standards.
-- (According to Kickstarter information of "Rabbit Route") Finnion (and [[Nayan]]) could be at [[Ninova]] according to some 'clues'.
-- <span style="color:rgb(255, 255, 0)">Finnion is in</span> [[Ninova]]
-- stopped visiting pink forest to go to [[Ninova]]
+- (According to Kickstarter information of "Rabbit Route") Finnion (and [[Nayan]]) could be at [[Ninova]] according to some 'clues'. Going to Ninova is probably why he stopped visiting Yurim, at first being in Vegoia where he found his books.
 
 
 - **Relevant caturdays:**

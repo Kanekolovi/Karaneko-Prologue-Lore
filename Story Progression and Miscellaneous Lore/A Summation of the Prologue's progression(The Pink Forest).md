@@ -257,7 +257,7 @@ Yurim hushes the silent Karam to pry on what the two are talking about.
 
 
 
-[^1]: The special interactions with names should go here…
+[^1]: The special interactions with names should go here… see [[Name selection]]
 	
 
 [^2]: Yurim refers to it as a Garden when first approached. Perhaps soon, it will be better fitted to be called a garden.

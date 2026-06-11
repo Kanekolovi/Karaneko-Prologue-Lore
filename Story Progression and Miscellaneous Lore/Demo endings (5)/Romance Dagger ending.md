@@ -6,5 +6,8 @@ How to proceed
 	- Kill 5 NPC or more #toconfirm 
 - Then, the conditions for the Romance ending must be met :
 	- Pick the right dialogue options with [[Yurim (Velkar)]], that is :
-		- #todo
+		- “I need to find my brother”
+		- “I need to find my brother”
+		- “Let’s go out together”
+		- “I want to leave this place together”
 

@@ -7,11 +7,16 @@
 - While she knows how to read and write, she may have trouble reading complicated matter; She “never understands what [the green book in her room] is about”.
 - She cooks and “foodnaps” everyday, although it has been a while she hasn’t felt the warmth of someone while falling asleep.  
 - (For initiality)Created *most* things in the forest. How much is ‘most’? Indeterminable(A list is preferable, see [[Pink Forest]]).
-- (For initiality)<span style="color:rgb(251, 254, 77)">She’s known at some point in her time in the</span> [[Pink Forest]] <span style="color:rgb(251, 254, 77)">that it and it’s people are </span><span style="color:rgb(251, 254, 77)">fake</span>(likely when Finnion first came into the [[Pink Forest |Forest]]); In the same conversation where she’s angry at Rose for saying that it’s fake, she also remarks that for the first time in ages, she felt like she had **real** friends; 
+- (For initiality)<span style="color:rgb(251, 254, 77)">She’s known at some point in her time in the</span> [[Pink Forest]] <span style="color:rgb(251, 254, 77)">that it</span> and it’s people are fake (likely when Finnion first came into the [[Pink Forest |Forest]]); In the same conversation where she’s angry at Rose for saying that it’s fake, she also remarks that for the first time in ages, she felt like she had **real** friends;
 ```ad-quote
-Yurim: "Are real people like you?"
+- "I thought for a long time that the people in here are boring but good"
+- "But they're   Not like you, Finnion, Ophelia, and Rose", "I know that very well"
+- "Are real people like you?"
+- "I thought I was the one who was different"
 ```
-In the following conversation with Yurim, she also says that she **has** to love this place([[Pink Forest]]), and in another conversation, she says that she **can’t** leave; She knows that the [[Pink Key |Pink heart crystal]] is a key, and she calls the stone door north-most of the [[Pink Forest]] what it is, an exit.
+In the following conversation with Yurim, she also says that she **has** to love this place([[Pink Forest]]), she did her best to love it, and in another conversation, she says that she **can’t** leave; She knows that the [[Pink Key |Pink heart crystal]] is a key, and she calls the stone door north-most of the [[Pink Forest]] what it is, an exit.
+
+
 - <span style="color:rgb(255, 176, 66)">If there <i>was</i> a time before the</span> [[Pink Forest]],<span style="color:rgb(255, 176, 66)"> then Yurim would’ve been under</span> [[Durai - God of Life.jpg]], <span style="color:rgb(255, 176, 66)">and</span> [[Desirée - 'God of Wisdom']], <span style="color:rgb(251, 254, 77)">most probably as a pupil.</span>[^1]From the same referenced text, Yurim had a task:
 ```ad-quote
 “The souls you will bring to this land… to Velkar-“
@@ -23,8 +28,12 @@ Theory: She has memory loss since the moment she arrived in the pink forest. We 
 “It feels like there was no time before the pink forest“
 “It's like I was born here, grew up here, and will grow old here.“
 “I don't remember when I arrived.“
+“I don't know my mom or dad.“
+“I don't know if I have any siblings.“
+“The only thing that I know is that I love this place.“
 ```
 
+Pralii thinks overall she is emotionally naive, has felt lonely for a long time and really loves real people for that reason. But being emotionally young she is prone to getting overwhelmed and acting on  the moment
 
 - Relevant caturdays:
 ```ad-example
