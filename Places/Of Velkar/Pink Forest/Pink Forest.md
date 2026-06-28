@@ -1,4 +1,4 @@
-(Karam) Accessed via the wardrobe in [['Karam's' Room(Academy, or Velkar)|Karam’s Room]], it is a  major area that can be split into three sectors. At the moment, not much is known of the Pink Forest; It’s origins, nor it’s actual purpose. Save for the fact that <span style="color:rgb(122, 211, 255)">it imitates the reality</span> [[Of Velkar|of Velkar]].
+-(Karam) Accessed via the wardrobe in [['Karam's' Room(Academy, or Velkar)|Karam’s Room]], it is a  major area that can be split into three sectors. At the moment, not much is known of the Pink Forest; It’s origins, nor it’s actual purpose. Save for the fact that <span style="color:rgb(122, 211, 255)">it imitates the reality</span> [[Of Velkar|of Velkar]].
 The Pink Forest has two variants, with 33 ‘NPCs’ inhabiting the place:
 
 - Cherry rabbit
@@ -62,3 +62,17 @@ Find sprites of red forest?
 Pink Forest (Night):
 
 **Every NPC is nowhere to be seen**, objects interactions are normal apart from some being uninteractable (library, lamp signs, snow and items near the cabin). The christmas tree and black flowers dissapears too. Not much of note.
+
+
+Pink Forest (Dead):
+Black snowflakes, no music, wild trees everywhere, paths are unrecognizable.. The Pink Forest lost all its magic and all NPCs are now pink ghosts you cannot interact with. It is now a desolate and scary place with everything destroyed after Yurim’s Black Hole. 
+
+Descriptions of objects still available don’t change.  This can lead to “A bush with orange leaves” although the bush in question lost all its colors and is now black.
+
+Notably: the signs are broken, the Cabin is gone, and you cannot interact with the treehouse but the library is unlocked though it is empty. The park also lost almost all its reckognizable ground and is instead filled with trees.
+Activating the [[Top Portal]] is the only meaningful interaction you can have in this place and it leads to the final chase section or end cutscene depending on the route.
+
+
+
+Upon activating the chase sequence, the forest changes gradually upon collecting Keys.
+After taking the [[Red Key]], the forest changes once more; trees are even more dead and black while their description is all corrupted and scary. for a single frame we can see the original description under each character before it is changed into its glitchy font.
